@@ -1,3 +1,0 @@
-{% include home_css/bootstrap.min.css %}
-{% include home_css/home.css %}
-{{ content }}
