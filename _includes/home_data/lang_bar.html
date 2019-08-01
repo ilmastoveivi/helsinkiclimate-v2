@@ -1,5 +1,12 @@
 <div id="lang-bar">
-  <a href="#">Suomeksi</a>
-  &nbsp;/&nbsp;
-  <a href="#">In English</a>
+    {% if page.ref!=null %}
+      {% assign pages=site.pages | where:"ref", page.ref %}
+      {% for page in pages %} 
+          {% if page.lang == "fi"  %}
+            <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}"> Suomeksi </a>
+          {% elsif page.lang == "en" %}
+            <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}"> In English</a>
+          {% endif %}
+      {% endfor %}
+    {% endif %}
 </div>
