@@ -1,88 +1,29 @@
 <!DOCTYPE html>
 <html>
-  {% include home_data/head.html %}
-  <!-- Navigation -->
-  <nav class="navbar navbar-default navbar-default-color navbar-fixed-top">
-    <div class="container">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header page-scroll">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand page-scroll" href="/">Name</a>
-        </div>
+{% include home_data/head.html %}
+{% include home_data/lang_bar.html %}
+{% include home_data/nav.html %}
 
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-right">
-                <li class="hidden">
-                    <a href="/"></a>
-                </li>
-                <li>
-                    <a class="page-scroll" href="#speakers">Speakers</a>
-                </li>
-                <li>
-                    <a class="page-scroll" href="/2016/agenda">Agenda</a>
-                </li>
-                <li>
-                    <a class="page-scroll" href="#about">About</a>
-                </li>
-                <li>
-                    <a class="page-scroll" href="#contact">Contact</a>
-                </li>
-            </ul>
-        </div>
-        <!-- /.navbar-collapse -->
-    </div>
-    <!-- /.container-fluid -->
-  </nav>
-
-  <!--
+<!--
       {% for page in site.pages %}
         {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
       {% endfor %}
   -->
-  <body id="body" class="index">
-    <div>
-      <div id="page-top">
-        <div class="text-center">
-          <div class="intro-heading">
-              <div id="date-location">
-                  September 11, 2019 @ Bio Rex
-                </div>
-              <p id="lets"></p>
-          </div >
-        </div>
-        {% include home_data/intro.html %}
-      </div>
-      <div id="page-bottom">
-        {% include home_data/organisers.html %}
-      </div>
-    </div>
-  </body>
 
-<script>
-    const interval = 3000
-    var text = [
-      "<b>Let's</b> go carbon neutral.",
-      "<b>Let's</b> talk about 2030.",
-      "<b>Let's</b> make 1.5C a reality.",
-      "<b>Let's</b> be honest with our youth.",
-      "<b>Let's</b> move towards a one planet economy.",
-      "<b>Let's</b> build a fossil-free society.",
-      "<b>Let's</b> face the carbon-free facts.",
-      "<b>Let's</b> make solutions for a 1.5C world.",
-    ];
-    var counter = Math.floor(Math.random() * 6);
-    $('#lets').html(text[counter % text.length]);
-    setInterval(change, interval);
-    function change() {
-      counter++;
-      $('#lets').html(text[counter % text.length]);
-      
-    }
-  </script>
+<body id="body" class="index">
+  <div>
+    <div id="page-top">
+      <div class="text-center">
+        <div class="intro-heading">
+          <img src="" alt="LOGO">
+          <p id="lets">The Era of Let’s! Has Begun</p>
+        </div>
+      </div>
+      {% include home_data/intro.html %}
+    </div>
+    <div id="page-bottom">
+      {% include home_data/organisers.html %}
+    </div>
+  </div>
+</body>
 </html>
