@@ -4,12 +4,6 @@
 {% include home_data/lang_bar.html %}
 {% include home_data/nav.html %}
 
-<!--
-      {% for page in site.pages %}
-        {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
-      {% endfor %}
-  -->
-
 <body id="body" class="index">
   <div>
     <div id="page-top">
@@ -20,6 +14,7 @@
         </div>
       </div>
       {% include home_data/intro.html %}
+      {% include home_data/event_date.html %}
     </div>
     <div id="page-bottom">
       {% include home_data/organisers.html %}

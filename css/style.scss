@@ -8,6 +8,10 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+$accent-color: black;
+$primary-color: white;
+$secondary-color: #ffbd00;
+
 html {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -24,27 +28,22 @@ html {
 }
 
 body {
-  background-color: white;
+  background-color: $primary-color;
   overflow-x: hidden;
 }
 
 .btn-xl {
   font-size: 45pt;
-  min-width: 600px;
-  color: #3d400f;
-  background-color: #edff40;
-  border-color: #3d400f;
+  min-width: 300px;
+  color: $accent-color;
+  background-color: $secondary-color;
+  border-color: $accent-color;
   border-radius: 3px;
   font-family: "adobe-caslon-pro";
   font-style: italic;
   line-height: 60pt;
   padding-left: 50px;
   padding-right: 50px;
-}
-
-.button-sub-text {
-  color: #3d400f;
-  font-size: 2.3vw;
 }
 
 .intro-heading {
@@ -62,7 +61,7 @@ body {
 }
 
 .navbar {
-  background-color: #ffbd00;
+  background-color: $secondary-color;
   height: 60px;
 }
 
@@ -147,13 +146,17 @@ section {
   text-align: left;
 }
 
-#date-location {
-  color: #3d400f;
+#date {
+  color: $accent-color;
   font-family: "titling-gothic-fb";
   font-size: 2.3vw;
 }
 
 #demoshelsinki {
+  width: 200px;
+}
+
+#gofore {
   width: 200px;
 }
 
@@ -172,11 +175,11 @@ section {
 }
 
 #lang-bar a {
-  color: black;
+  color: $accent-color;
 }
 
 #lets {
-  color: #3d400f;
+  color: $accent-color;
   font-family: "adobe-caslon-pro";
   font-style: italic;
   font-size: 5.3vw;
