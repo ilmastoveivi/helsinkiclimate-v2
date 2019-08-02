@@ -47,7 +47,7 @@ body {
 }
 
 .home-logo-link {
-  width: 45px;
+  width: 55px;
 }
 
 .intro-heading {
@@ -66,19 +66,14 @@ body {
 
 .navbar {
   background-color: $secondary-color;
-  height: 60px;
 }
 
 .navbar-brand {
-  width: 45px;
+  width: 55px;
 }
 
 .nav-item {
   text-align: right;
-}
-
-.navbar-nav {
-  margin-top: 10px !important;
 }
 
 .navbar a {
@@ -242,7 +237,7 @@ section {
   color: #3d400f;
 }
 
-@media screen and (max-width: 1268px) {
+@media screen and (max-width: 990px) {
   #greenpeace {
     padding-bottom: 50px;
   }
@@ -262,8 +257,8 @@ section {
     line-height: 30pt;
   }
 
-  .navbar {
-    flex-wrap: nowrap;
+  .navbar-link-separator {
+    display: none;
   }
 
   .vertical-align {
