@@ -7,5 +7,7 @@ about-us: About us
 apply-tickets: Apply for tickets
 are-you-with-us: ARE YOU WITH US?
 event-date: SEPTEMBER 11, 2019
+read-news: Read all latest news
 speakers: All speakers
+stay-tuned: STAY TUNED!
 ---
