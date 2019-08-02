@@ -262,6 +262,10 @@ section {
     line-height: 30pt;
   }
 
+  .navbar {
+    flex-wrap: nowrap;
+  }
+
   .vertical-align {
     display: flex;
     align-items: center;
