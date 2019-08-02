@@ -109,11 +109,18 @@ section {
   padding-right: 0px;
 }
 
-.col-md-3, .col-md-4 {
+.col-md-3,
+.col-md-4 {
   display: inline-block;
   height: 100%;
   text-align: center;
   vertical-align: middle;
+}
+
+.hero-text {
+  color: $accent-color;
+  font-family: "adobe-caslon-pro";
+  font-size: 5.3vw;
 }
 
 .organisers-bottom {
@@ -156,6 +163,10 @@ section {
   width: 200px;
 }
 
+#event-date {
+  background-color: $secondary-color;
+}
+
 #gofore {
   width: 200px;
 }
@@ -176,13 +187,6 @@ section {
 
 #lang-bar a {
   color: $accent-color;
-}
-
-#lets {
-  color: $accent-color;
-  font-family: "adobe-caslon-pro";
-  font-style: italic;
-  font-size: 5.3vw;
 }
 
 #organisers {
