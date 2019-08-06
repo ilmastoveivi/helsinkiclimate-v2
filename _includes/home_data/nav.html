@@ -1,59 +1,45 @@
 <!-- Navigation -->
-<nav class="navbar navbar-expand-lg navbar-light">
-  <a class="home-logo-link" href="/">
-    <img class="navbar-brand" src="/favicon.png">
-  </a>
+<nav class="navbar navbar-expand-lg navbar-light navbar-custom">
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler"
     aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="navbarToggler">
-    <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
+    <ul class="navbar-nav mt-2 mt-lg-0">
       {% if page.lang == "en" %}
       <li class="nav-item">
-        <a class="nav-link" href="/about">About us</a>
+        <a class="nav-link" href="/">Helsinki climate</a>
       </li>
-      <li class="nav-item"></li>
-      <p class="nav-link navbar-link-separator">/</p>
+      <li class="nav-item">
+        <a class="nav-link" href="/about">About us</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="/speakers">Speakers</a>
       </li>
-      <li class="nav-item"></li>
-      <p class="nav-link navbar-link-separator">/</p>
-      </li>
       <li class="nav-item">
         <a class="nav-link" href="/info">Info</a>
-      </li>
-      <li class="nav-item"></li>
-      <p class="nav-link navbar-link-separator">/</p>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="/tickets">Apply for tickets</a>
       </li>
       {% elsif page.lang == "fi" %}
       <li class="nav-item">
-        <a class="nav-link" href="/meista">Meistä</a>
+        <a class="nav-link" href="/">Helsinki Climate</a>
       </li>
-      <li class="nav-item"></li>
-      <p class="nav-link">/</p>
+      <li class="nav-item">
+        <a class="nav-link" href="/meista">Meistä</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="/puhujat">Puhujat</a>
       </li>
-      <li class="nav-item"></li>
-      <p class="nav-link">/</p>
-      </li>
       <li class="nav-item">
         <a class="nav-link" href="/tietoa">Info</a>
-      </li>
-      <li class="nav-item"></li>
-      <p class="nav-link">/</p>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="/liput">Hae lippuja</a>
       </li>
       {% endif %}
     </ul>
+    {% include home_data/lang_bar.html %}
   </div>
 </nav>

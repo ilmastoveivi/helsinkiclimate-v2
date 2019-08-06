@@ -1,11 +1,19 @@
-<div id="lang-bar">
+<div class= "ml-auto" id="lang-bar">
     {% if page.ref!=null %}
       {% assign pages=site.pages | where:"ref", page.ref %}
-      {% for page in pages %} 
-          {% if page.lang == "fi"  %}
-            <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}"> Suomeksi </a>
-          {% elsif page.lang == "en" %}
-            <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}"> In English</a>
+      {% for p in pages %} 
+          {% if p.lang == "fi"  %}
+            {% if page.lang == "fi"  %}
+              <a href="#" class="{{ page.lang }} active"> FI </a>
+            {% else  %}
+             <a href="{{ p.url | prepend: site.baseurl }}" class="{{ page.lang }}"> FI </a>
+            {% endif %}
+          {% elsif p.lang == "en" %}
+            {% if page.lang == "en"  %}
+              <a href="#" class="{{ page.lang }} active"> EN </a>
+            {% else  %}
+             <a href="{{ p.url | prepend: site.baseurl }}" class="{{ page.lang }}"> EN </a>
+            {% endif %}
           {% endif %}
       {% endfor %}
     {% endif %}

@@ -11,6 +11,7 @@
 $accent-color: black;
 $primary-color: white;
 $secondary-color: #ffbd00;
+$backgroung-color: #edff40;
 
 html {
   -webkit-box-sizing: border-box;
@@ -28,7 +29,7 @@ html {
 }
 
 body {
-  background-color: $primary-color;
+  background-color: $backgroung-color;
   overflow-x: hidden;
 }
 
@@ -65,7 +66,8 @@ body {
 }
 
 .navbar {
-  background-color: $secondary-color;
+  background-color: $backgroung-color;
+  text-transform: uppercase;
 }
 
 .navbar-brand {
@@ -76,8 +78,15 @@ body {
   text-align: right;
 }
 
-.navbar a {
-  color: #372600 !important;
+/* change the link color */
+.navbar-custom .navbar-nav .nav-link {
+  color: black;
+}
+/* change the color of active or hovered links */
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:focus .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+  color: black;
 }
 
 /* Italic text between the intro-lead-in */
@@ -179,13 +188,19 @@ section {
 }
 
 #lang-bar {
-  height: 40px;
-  margin: 10px 10px 0 0;
+  margin: 0px 10px 0 0;
   text-align: right;
 }
 
 #lang-bar a {
   color: $accent-color;
+}
+#lang-bar a.active {
+  color: #7082D9;
+}
+
+#lang-bar a + a {
+  margin-left: 15px;
 }
 
 #organisers {
