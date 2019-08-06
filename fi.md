@@ -5,6 +5,7 @@ lang: fi
 
 about-us: Meistä
 apply-tickets: Hae lippuja
+about-event: about-event
 are-you-with-us: OLETKO KANSSAMME?
 event-date: 11. SYYSKUUTA, 2019
 read-news: Lue uusimmat uutiset

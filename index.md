@@ -5,6 +5,7 @@ lang: en
 
 about-us: About us
 apply-tickets: Apply for tickets
+about-event: About the event
 are-you-with-us: ARE YOU WITH US?
 event-date: SEPTEMBER 11, 2019
 read-news: Read all latest news
