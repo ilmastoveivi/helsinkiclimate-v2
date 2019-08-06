@@ -34,10 +34,10 @@ body {
 }
 
 .btn-xl {
-  font-size: 45pt;
+  font-size: 25pt;
   min-width: 300px;
   color: $accent-color;
-  background-color: $secondary-color;
+  background-color: $backgroung-color;
   border-color: $accent-color;
   border-radius: 3px;
   font-family: "adobe-caslon-pro";
@@ -250,6 +250,12 @@ section {
 
 #subscribing h2 {
   color: #3d400f;
+}
+
+.bg-image-world{
+  background-position: left top; /*Positioning*/
+  background-image: url('../resources/img/logos/earth_whole_2.png');
+  background-repeat: no-repeat;
 }
 
 @media screen and (max-width: 990px) {
