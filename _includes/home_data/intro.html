@@ -5,18 +5,26 @@
             <div class="row d-flex ml-4 justify-content-center">
                 <div class="col-10">
                   <div class="text-left mt-5">
-                    <div>
-                      <p>
-                        Let's be hones with our youth.
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur molestie sem a quam egestas, 
-                        eu accumsan felis dapibus. Nunc nec ornare dui. In at neque ut leo ornare elementum. Proin tempor, 
-                        leo vitae condimentum maximus, nisi velit luctus mauris, non semper est ligula quis dui.
-                        Praesent consectetur semper nisl id pretium. Morbi tincidunt semper ex. Donec fermentum eget dolor vel vehicula.
-                      </p>
+                    <div id="intro-text">
+                        {{page.lets | markdownify}}
+                        {{page.time-for-yes | markdownify}}
+                    </div>
+                    <div class="mt-3">
                         <a href="#" class="page-scroll btn btn-xl">{{page.about-event}}</a>
                     </div>
                   </div>
                 </div>
+                <div class="col-10">
+                    <div class="text-left mt-5">
+                      <div id="intro-text">
+                          {{page.brutally-honest | markdownify}}
+                          {{page.we-want-you-part | markdownify}}
+                      </div>
+                      <div class="mt-3">
+                          <a href="#" class="page-scroll btn btn-xl">{{page.apply-tickets}}</a>
+                      </div>
+                    </div>
+                  </div>
             </div>
           </div>
       </div>

@@ -12,6 +12,7 @@ $accent-color: black;
 $primary-color: white;
 $secondary-color: #ffbd00;
 $backgroung-color: #edff40;
+$light-blue: #dee3ff;
 
 html {
   -webkit-box-sizing: border-box;
@@ -45,6 +46,10 @@ body {
   line-height: 60pt;
   padding-left: 50px;
   padding-right: 50px;
+}
+
+.btn-light-blue {
+  background-color: $light-blue;
 }
 
 .home-logo-link {
@@ -128,7 +133,7 @@ section {
 .hero-text {
   color: $accent-color;
   font-family: "adobe-caslon-pro";
-  font-size: 5.3vw;
+  font-size: 2.3vw;
 }
 
 .organisers-bottom {
@@ -252,10 +257,24 @@ section {
   color: #3d400f;
 }
 
-.bg-image-world{
-  background-position: left top; /*Positioning*/
+.bg-image-world {
+  background-position: left top;
   background-image: url('../resources/img/logos/earth_whole_2.png');
   background-repeat: no-repeat;
+}
+
+#intro-text > p {
+ margin-bottom: 0.1rem;
+}
+
+// are you with us section
+#are-you-with-us {
+  background-color: $light-blue;
+  background-position: center bottom;
+  background-image: url('../resources/img/logos/top_earth.png');
+  background-repeat: no-repeat;
+  background-size: 30%;
+  padding-bottom: 120px;
 }
 
 @media screen and (max-width: 990px) {
