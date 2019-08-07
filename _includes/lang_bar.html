@@ -6,7 +6,7 @@
         <li class="lang-bar-item ">
           {% if p.lang == "fi"  %}
             {% if page.lang == "fi"  %}
-              <a href="#" class=" nav-link{{ page.lang }} active"> FI </a>
+              <a href="#" class=" nav-link {{ page.lang }} active"> FI </a>
             {% else  %}
              <a href="{{ p.url | prepend: site.baseurl }}" class="nav-link {{ page.lang }}"> FI </a>
             {% endif %}
