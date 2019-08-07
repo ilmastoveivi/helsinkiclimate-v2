@@ -11,7 +11,7 @@
 $accent-color: black;
 $primary-color: white;
 $secondary-color: #ffbd00;
-$backgroung-color: #edff40;
+$background-color: #edff40;
 $light-blue: #dee3ff;
 $body-font: "titling-gothic-normal";
 
@@ -31,7 +31,7 @@ html {
 }
 
 body {
-  background-color: $backgroung-color;
+  background-color: $background-color;
   overflow-x: hidden;
   font-family: $body-font;
 }
@@ -40,7 +40,6 @@ body {
   font-size: 1.5rem;
   min-width: 18.5rem;
   color: $accent-color;
-  background-color: $backgroung-color;
   border-color: $accent-color;
   border-radius: 0.2rem;
   font-family: "adobe-caslon-pro";
@@ -72,7 +71,7 @@ body {
 }
 
 .navbar {
-  background-color: $backgroung-color;
+  background-color: $background-color;
   text-transform: uppercase;
   margin-top: 0.5rem;
 }
@@ -114,6 +113,21 @@ section {
 h1 {
   font-size: 4.5rem;
 }
+
+#about h2 {
+  font-weight: bold;
+}
+
+#about #apply-tickets {
+  background-color: $light-blue;
+  .content-container {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+  }
+}
+
+
 
 blockquote {
   border-left: black;
@@ -254,8 +268,8 @@ blockquote {
 }
 
 .content-container {
-  margin-left: 15%;
-  margin-right: 15%;
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
 #partners-heading {

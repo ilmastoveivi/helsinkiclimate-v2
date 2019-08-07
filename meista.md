@@ -2,6 +2,7 @@
 layout: about
 ref: about
 lang: fi
+apply-tickets: Hae lippuja
 
 ---
 
