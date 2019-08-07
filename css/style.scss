@@ -13,6 +13,7 @@ $primary-color: white;
 $secondary-color: #ffbd00;
 $backgroung-color: #edff40;
 $light-blue: #dee3ff;
+$body-font: "titling-gothic-normal";
 
 html {
   -webkit-box-sizing: border-box;
@@ -32,6 +33,7 @@ html {
 body {
   background-color: $backgroung-color;
   overflow-x: hidden;
+  font-family: $body-font;
 }
 
 .btn-xl {
@@ -64,7 +66,6 @@ body {
 }
 
 .intro-lead-in {
-  font-family: "titling-gothic-fb-wide";
   font-size: 3.3vw;
   line-height: 60pt;
   text-transform: uppercase;
@@ -99,11 +100,6 @@ i {
   font-family: "adobe-caslon-pro";
   font-weight: bold;
   text-transform: lowercase;
-}
-
-/* Paragraph text under the button */
-p {
-  font-family: "titling-gothic-fb";
 }
 
 section {
@@ -168,7 +164,6 @@ section {
 
 #date {
   color: $accent-color;
-  font-family: "titling-gothic-fb";
   font-size: 2.3vw;
 }
 
@@ -215,7 +210,6 @@ section {
 #organisers h2 {
   color: #dee3ff;
   font-size: 16pt;
-  font-family: "titling-gothic-fb-wide";
 }
 
 #organisers img {
@@ -228,10 +222,11 @@ section {
   background-size: 50%;
   background-repeat: no-repeat;
   background-position: top;
+  margin-left: 15%;
+  margin-right: 15%;
 }
 
 #partners-heading {
-  font-family: "titling-gothic-fb-wide";
   font-size: 16pt;
   text-align: center;
   text-transform: uppercase;
