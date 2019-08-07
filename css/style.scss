@@ -183,24 +183,8 @@ blockquote {
   font-size: 2.3vw;
 }
 
-#demoshelsinki {
-  width: 12.5rem;
-}
-
 #event-date {
   background-color: $secondary-color;
-}
-
-#gofore {
-  width: 12.5rem;
-}
-
-#greenpeace {
-  width: 12.5rem;
-}
-
-#ilmastoveivi {
-  width: 6rem;
 }
 
 #lang-bar {
@@ -254,14 +238,6 @@ blockquote {
   color: #dee3ff;
 }
 
-#sitra {
-  width: 12.5rem;
-}
-
-#smartclean {
-  width: 12.5rem;
-}
-
 #stay-tuned {
   background-color: $secondary-color;
 }
@@ -299,9 +275,7 @@ blockquote {
     display: flex;
     justify-content: center;
   }
-  #greenpeace {
-    padding-bottom: 3.125rem;
-  }
+
   .intro-text,
   #button-col {
     text-align: center;
