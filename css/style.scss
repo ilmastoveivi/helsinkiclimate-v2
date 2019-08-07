@@ -37,17 +37,17 @@ body {
 }
 
 .btn-xl {
-  font-size: 25pt;
-  min-width: 300px;
+  font-size: 1.5rem;
+  min-width: 18.5rem;
   color: $accent-color;
   background-color: $backgroung-color;
   border-color: $accent-color;
-  border-radius: 3px;
+  border-radius: 0.2rem;
   font-family: "adobe-caslon-pro";
   font-style: italic;
-  line-height: 60pt;
-  padding-left: 50px;
-  padding-right: 50px;
+  line-height: 3.75rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
 }
 
 .btn-light-blue {
@@ -55,30 +55,30 @@ body {
 }
 
 .home-logo-link {
-  width: 55px;
+  width: 3.5rem;
 }
 
 .intro-heading {
   font-family: "adobe-caslon-pro";
   font-size: 3.3vw;
-  line-height: 60pt;
+  line-height: 3.75rem;
   margin-top: 1em;
 }
 
 .intro-lead-in {
   font-size: 3.3vw;
-  line-height: 60pt;
+  line-height: 3.75rem;
   text-transform: uppercase;
 }
 
 .navbar {
   background-color: $backgroung-color;
   text-transform: uppercase;
-  margin-top: 10px;
+  margin-top: 0.5rem;
 }
 
 .navbar-brand {
-  width: 55px;
+  width: 3.5rem;
 }
 
 .nav-item {
@@ -104,11 +104,11 @@ i {
 }
 
 section {
-  padding: 20px 0;
+  padding: 1.5rem 0;
 }
 
 .text {
-  margin-left: 20px;
+  margin-left: 1.5rem;
 }
 
 h1 {
@@ -128,10 +128,10 @@ blockquote {
 
 .row,
 .col-xs-6 {
-  margin-left: 0px;
-  margin-right: 0px;
-  padding-left: 0px;
-  padding-right: 0px;
+  margin-left: 0rem;
+  margin-right: 0rem;
+  padding-left: 0rem;
+  padding-right: 0rem;
 }
 
 .col-md-3,
@@ -149,7 +149,7 @@ blockquote {
 }
 
 .organisers-bottom {
-  padding-top: 50px;
+  padding-top: 3rem;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -160,7 +160,7 @@ blockquote {
 }
 
 .organisers-bottom-partners {
-  padding-top: 10px;
+  padding-top: 0.75rem;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -184,7 +184,7 @@ blockquote {
 }
 
 #demoshelsinki {
-  width: 200px;
+  width: 12.5rem;
 }
 
 #event-date {
@@ -192,24 +192,24 @@ blockquote {
 }
 
 #gofore {
-  width: 200px;
+  width: 12.5rem;
 }
 
 #greenpeace {
-  width: 200px;
+  width: 12.5rem;
 }
 
 #ilmastoveivi {
-  width: 100px;
+  width: 6rem;
 }
 
 #lang-bar {
-  margin: 0px 10px 0 0;
+  margin: 0rem 0.75rem 0rem 0rem;
 }
 .lang-bar-item {
   background-color: transparent;
   border: none;
-  margin-right: 15px;
+  margin-right: 1rem;
 }
 #lang-bar a {
   color: $accent-color;
@@ -224,11 +224,11 @@ blockquote {
 
 #organisers h2 {
   color: #dee3ff;
-  font-size: 16pt;
+  font-size: 1rem;
 }
 
 #organisers img {
-  margin: 50px auto;
+  margin: 0.75rem auto;
 }
 
 #page-top {
@@ -245,7 +245,7 @@ blockquote {
 }
 
 #partners-heading {
-  font-size: 16pt;
+  font-size: 1rem;
   text-align: center;
   text-transform: uppercase;
 }
@@ -255,11 +255,11 @@ blockquote {
 }
 
 #sitra {
-  width: 200px;
+  width: 12.5rem;
 }
 
 #smartclean {
-  width: 200px;
+  width: 12.5rem;
 }
 
 #stay-tuned {
@@ -287,7 +287,7 @@ blockquote {
   background-image: url('../resources/img/logos/top_earth.png');
   background-repeat: no-repeat;
   background-size: 30%;
-  padding-bottom: 120px;
+  padding-bottom: 7.5rem;
 }
 
 @media screen and (max-width: 990px) {
@@ -300,7 +300,7 @@ blockquote {
     justify-content: center;
   }
   #greenpeace {
-    padding-bottom: 50px;
+    padding-bottom: 3.125rem;
   }
   .intro-text,
   #button-col {
@@ -308,14 +308,14 @@ blockquote {
   }
 
   .btn-xl {
-    font-size: 15pt;
-    min-width: 150px;
-    line-height: 30pt;
-    padding-left: 25px;
-    padding-right: 25px;
+    font-size: 1rem;
+    min-width: 9rem;
+    line-height: 1.75rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
   }
   .intro-lead-in {
-    line-height: 30pt;
+    line-height: 2rem;
   }
 
   .navbar-link-separator {
