@@ -14,7 +14,11 @@
     </div>
     <div class="organisers-bottom row text-center">
         <div class="col-md-12 col-sm-12 ">
-            <h2>{{ page.supported-by }}</h2>
+            {% if page.lang == "fi" %}
+                <h2>Tukijat</h2>
+            {% elsif page.lang == "en" %}
+                <h2>Supported by</h2>
+            {% endif %}
         </div>
     </div>
     <div class="organisers-bottom-partners row">
@@ -41,7 +45,11 @@
     </div>
     <div class="organisers-bottom row text-center">
         <div class="col-md-12 col-sm-12 ">
-            <a id="privacy-policy" href="https://www.demoshelsinki.fi/en/privacy-policy/">{{ page.privacy-policy }}</a>
+            {% if page.lang == "fi" %}
+                <a id="privacy-policy" href="https://www.demoshelsinki.fi/tietosuojaseloste/">Tietosuojaseloste</a>
+            {% elsif page.lang == "en" %}
+                <a id="privacy-policy" href="https://www.demoshelsinki.fi/en/privacy-policy/">Privacy policy</a>
+            {% endif %}
         </div>
     </div>
 </div>
