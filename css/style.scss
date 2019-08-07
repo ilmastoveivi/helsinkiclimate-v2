@@ -111,6 +111,21 @@ section {
   margin-left: 20px;
 }
 
+h1 {
+  font-size: 4.5rem;
+}
+
+blockquote {
+  border-left: black;
+  border-left-style: solid;
+  margin-left: -2rem;
+  padding-left: 2rem;
+  font-size: 2rem;
+  font-style: italic;
+  font-weight: bold;
+}
+
+
 .row,
 .col-xs-6 {
   margin-left: 0px;

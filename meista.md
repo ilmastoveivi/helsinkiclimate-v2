@@ -17,6 +17,8 @@ Keväällä Suomen hallitusohjelman kirjattiin historiallinen ja kunnianhimoinen
 
 On kohtuullista sanoa, että ilmastonmuutoksen vakavuus on huomattu. Emme tahdo enää olla osa ongelmaa.
 
+>Lorem ipsum quote tekstiä lorem lipsum
+
 Sitten on se toinen, vieläkin tärkeämpi tarina.
 
 Emme halua myöntää, kuinka merkittäviä toimia tarvitaan. Emmekä uskalla puhua, kuinka nopeasti niitä tarvitaan. 
