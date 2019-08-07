@@ -263,7 +263,7 @@ section {
   background-repeat: no-repeat;
 }
 
-#intro-text > p {
+.intro-text > p {
  margin-bottom: 0.1rem;
 }
 
@@ -289,14 +289,14 @@ section {
   #greenpeace {
     padding-bottom: 50px;
   }
-  #intro,
+  .intro-text,
   #button-col {
     text-align: center;
   }
 
   .btn-xl {
     font-size: 15pt;
-    min-width: 300px;
+    min-width: 150px;
     line-height: 30pt;
     padding-left: 25px;
     padding-right: 25px;
