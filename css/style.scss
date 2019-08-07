@@ -73,6 +73,7 @@ body {
 .navbar {
   background-color: $backgroung-color;
   text-transform: uppercase;
+  margin-top: 10px;
 }
 
 .navbar-brand {
@@ -80,7 +81,7 @@ body {
 }
 
 .nav-item {
-  text-align: right;
+  text-align: center;
 }
 
 /* change the link color */
@@ -194,18 +195,17 @@ section {
 
 #lang-bar {
   margin: 0px 10px 0 0;
-  text-align: right;
 }
-
+.lang-bar-item {
+  background-color: transparent;
+  border: none;
+  margin-right: 15px;
+}
 #lang-bar a {
   color: $accent-color;
 }
 #lang-bar a.active {
   color: #7082D9;
-}
-
-#lang-bar a + a {
-  margin-left: 15px;
 }
 
 #organisers {
@@ -278,6 +278,14 @@ section {
 }
 
 @media screen and (max-width: 990px) {
+  .navbar-custom {
+    display: flex;
+    justify-content: center;
+  }
+  #lang-bar {
+    display: flex;
+    justify-content: center;
+  }
   #greenpeace {
     padding-bottom: 50px;
   }

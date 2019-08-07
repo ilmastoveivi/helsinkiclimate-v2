@@ -1,20 +1,25 @@
 <div class= "ml-auto" id="lang-bar">
+    <ul class="list-group list-group-horizontal navbar-nav mt-2 mt-lg-0">
     {% if page.ref!=null %}
       {% assign pages=site.pages | where:"ref", page.ref %}
       {% for p in pages %} 
+        <li class="lang-bar-item ">
           {% if p.lang == "fi"  %}
             {% if page.lang == "fi"  %}
-              <a href="#" class="{{ page.lang }} active"> FI </a>
+              <a href="#" class=" nav-link{{ page.lang }} active"> FI </a>
             {% else  %}
-             <a href="{{ p.url | prepend: site.baseurl }}" class="{{ page.lang }}"> FI </a>
+             <a href="{{ p.url | prepend: site.baseurl }}" class="nav-link {{ page.lang }}"> FI </a>
             {% endif %}
           {% elsif p.lang == "en" %}
             {% if page.lang == "en"  %}
-              <a href="#" class="{{ page.lang }} active"> EN </a>
+              <a href="#" class="nav-link {{ page.lang }} active"> EN </a>
             {% else  %}
-             <a href="{{ p.url | prepend: site.baseurl }}" class="{{ page.lang }}"> EN </a>
+             <a href="{{ p.url | prepend: site.baseurl }}" class="nav-link {{ page.lang }}"> EN </a>
             {% endif %}
           {% endif %}
+        </li>
       {% endfor %}
     {% endif %}
+    
+    </ul>
 </div>
