@@ -1,7 +1,8 @@
 ---
-layout: home
+layout: about
 ref: about
 lang: en
 
-apply-tickets: ABOUT page
 ---
+
+English translation of about page missing
