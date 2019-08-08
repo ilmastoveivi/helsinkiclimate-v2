@@ -1,7 +1,9 @@
 ---
-layout: home
+layout: speakers
 ref: speakers
 lang: fi
 
-apply-tickets: PUHUJAT sivu
+speakers: puhujat
+speakers-subtitle: lyhyt otsikko
+
 ---
