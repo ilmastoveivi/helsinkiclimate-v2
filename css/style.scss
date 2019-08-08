@@ -333,6 +333,21 @@ blockquote {
   color: $light-blue-color;
   border-color: $light-blue-color;
 }
+
+// speakers
+#speakers {
+  background-position-x: 20%;
+  background-image: url('../resources/img/logos/earth_whole_2.png');
+  background-repeat: no-repeat;
+}
+#speakers .content-container{
+  max-width: 1000px;
+}
+
+#speakers h1 {
+  text-transform: uppercase;
+}
+
 @media screen and (max-width: 990px) {
   .navbar-custom {
     display: flex;

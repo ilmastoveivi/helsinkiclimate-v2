@@ -1,7 +1,9 @@
 ---
-layout: home
+layout: speakers
 ref: speakers
 lang: en
 
-apply-tickets: SPEAKERS page
+speakers: speakers
+speakers-subtitle: short subtitle
+
 ---
