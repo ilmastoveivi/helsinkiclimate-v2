@@ -12,7 +12,8 @@ $accent-color: black;
 $primary-color: white;
 $secondary-color: #ffbd00;
 $background-color: #edff40;
-$light-blue: #dee3ff;
+$light-blue-color: #dee3ff;
+$dark-gray-color :#1b1d09;
 $body-font: "titling-gothic-normal";
 
 html {
@@ -50,7 +51,7 @@ body {
 }
 
 .btn-light-blue {
-  background-color: $light-blue;
+  background-color: $light-blue-color;
 }
 
 .home-logo-link {
@@ -119,7 +120,7 @@ h1 {
 }
 
 #about #apply-tickets {
-  background-color: $light-blue;
+  background-color: $light-blue-color;
   .content-container {
     display: flex;
     flex-flow: column;
@@ -247,7 +248,7 @@ blockquote {
 }
 
 #organisers {
-  background-color: #1b1d09;
+  background-color: $dark-gray-color;
 }
 
 #organisers h2 {
@@ -302,14 +303,36 @@ blockquote {
 
 // are you with us section
 #are-you-with-us {
-  background-color: $light-blue;
+  background-color: $light-blue-color;
   background-position: center bottom;
   background-image: url('../resources/img/logos/top_earth.png');
   background-repeat: no-repeat;
   background-size: 30%;
   padding-bottom: 7.5rem;
 }
+//talk show
+#talk_show {
+  background-color: $dark-gray-color;
+  color: $light-blue-color;
+}
+#talk-left-bg {
+  background-position: left center;
+  background-image: url('../resources/img/logos/earth_whole_2.png');
+  background-repeat: no-repeat;
+  width: 18.75rem;
+}
 
+#talk-right-bg {
+  background-position: right center;
+  background-image: url('../resources/img/logos/earth_whole_2.png');
+  background-repeat: no-repeat;
+  width: 18.75rem;
+}
+
+#talk_show .btn-xl {
+  color: $light-blue-color;
+  border-color: $light-blue-color;
+}
 @media screen and (max-width: 990px) {
   .navbar-custom {
     display: flex;
