@@ -1,7 +1,7 @@
 <div class= "ml-auto" id="lang-bar">
     <ul class="list-group list-group-horizontal navbar-nav mt-2 mt-lg-0">
     {% if page.ref!=null %}
-      {% assign pages=site.pages | where:"ref", page.ref %}
+      {% assign pages=site.pages | where:"ref", page.ref | sort: "lang" | reverse %}
       {% for p in pages %} 
         <li class="lang-bar-item ">
           {% if p.lang == "fi"  %}
