@@ -13,7 +13,7 @@ $primary-color: white;
 $secondary-color: #ffbd00;
 $background-color: #edff40;
 $light-blue: #dee3ff;
-$body-font: "titling-gothic-normal";
+$body-font: "titling-gothic-fb";
 
 html {
   -webkit-box-sizing: border-box;
@@ -34,6 +34,8 @@ body {
   background-color: $background-color;
   overflow-x: hidden;
   font-family: $body-font;
+  font-style: normal;
+  font-weight: 100;
 }
 
 .btn-xl {
