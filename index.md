@@ -18,4 +18,6 @@ lets:  "**Let's**"
 time-for-yes: "The time for “yes, but” is over. Helsinki Climate brings together the doers of carbon neutral Finland and Europe." 
 brutally-honest: "**Brutally honest climate talk show**"
 we-want-you-part: "We want you to be part of it. Join on the spot or online."
+speakers_link: "/speakers"
+about_link: "/about"
 ---

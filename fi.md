@@ -17,4 +17,6 @@ lets:  "**Let's**"
 time-for-yes: "Puheiden aika on ohi. Meidän on ryhdyttävä ilmastotekoihin nyt. *Helsinki Climate* kokoaa yhteen hiilineutraalin Suomen ja Euroopan tekijät." 
 brutally-honest: "**Suunnattoman rehellinen ilmasto talk-show**"
 we-want-you-part: "Me haluamme sinut mukaan. Osallistu paikan päällä tai seuraa tapahtumaa livenä."
+speakers_link: "/puhujat"
+about_link: "/meista"
 ---
