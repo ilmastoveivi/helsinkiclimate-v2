@@ -1,7 +1,7 @@
 ---
-layout: home
+layout: about
 ref: info
 lang: en
 
-apply-tickets: INFO page
+apply-tickets: Apply for tickets
 ---

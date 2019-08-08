@@ -15,6 +15,7 @@ $background-color: #edff40;
 $light-blue-color: #dee3ff;
 $dark-gray-color :#1b1d09;
 $body-font: "titling-gothic-normal";
+$body-font: "titling-gothic-fb";
 
 html {
   -webkit-box-sizing: border-box;
@@ -35,6 +36,8 @@ body {
   background-color: $background-color;
   overflow-x: hidden;
   font-family: $body-font;
+  font-style: normal;
+  font-weight: 100;
 }
 
 .btn-xl {
@@ -252,7 +255,7 @@ blockquote {
 }
 
 #organisers h2 {
-  color: #dee3ff;
+  color: $light-blue-color;
   font-size: 1rem;
 }
 
@@ -280,7 +283,7 @@ blockquote {
 }
 
 #privacy-policy {
-  color: #dee3ff;
+  color: $light-blue-color;
 }
 
 #stay-tuned {
