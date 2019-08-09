@@ -12,7 +12,15 @@
         <h2>{{ page.speakers-subtitle }}</h2>
       </div>
     </div>
-    {% include speakers_data/speakers_grid.html %}
+    <section id="speakers-grid">
+      <div class="content-container">
+          <div class="row justify-content-center mt-4">
+            {% for person in site.data.speakers[page.lang] %}
+              {% include speakers/speaker_grid.html name=person.name title=person.title description=person.description img=person.img %}
+            {% endfor %}
+          </div>
+      </div>
+    </section>
     <div id="top-earth-yellow" class="top-earth-bg top-earth-yellow">
     </div>
   </div>
