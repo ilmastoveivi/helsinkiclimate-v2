@@ -213,7 +213,27 @@ blockquote {
   background-color: $secondary-color;
 }
 
+.speaker-element {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.speaker-element .tooltiptext {
+  font-size: 0.75rem;
+  visibility: hidden;
+  width: 70%;
+  height: 70%;
+  background-color: $yellowish-color;
+  color: black;
+  text-align: center;
+  position: absolute;
+  z-index: 1;
+}
 
+/* Show the tooltip text when you mouse over the tooltip container */
+.speaker-element:hover .tooltiptext {
+  visibility: visible;
+}
 /* The widths are defined based on sizes and dimensions of the logos. Wihuri logo is not defined here at all, but
    its original width is used  */
 #gofore {
