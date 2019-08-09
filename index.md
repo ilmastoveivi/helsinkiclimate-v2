@@ -19,5 +19,5 @@ time-for-yes: "The time for “yes, but” is over. Helsinki Climate brings toge
 brutally-honest: "**Brutally honest climate talk show**"
 we-want-you-part: "We want you to be part of it. Join on the spot or online."
 speakers_link: "/speakers"
-about_link: "/about"
+about_link: "/story"
 ---

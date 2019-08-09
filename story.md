@@ -1,14 +1,14 @@
 ---
 layout: about
 ref: about
-lang: fi
-apply-tickets: Hae lippuja
+lang: en
+apply-tickets: Apply for tickets
 
 ---
 
-# Ilmastokriisi on täällä. Missä olemme me, oikeasti?
+# Climate crisis is here. Where are we? Really
 
-## Vuonna 2019 ilmastokeskustelussa on otettu jättimäisiä harppauksia. 
+## English slogan
 
 Nuoret ympäri maailmaa ovat järjestäneet lakkoja ja marssineet ilmaston puolesta. Poliitikoilta on vaaleissa vaadittu tiukempia ja ripeämpiä toimia. Suuret kaupungit ja yritykset janoavat ilmastonmuutoksen ratkaisijan rooliin. 
 
@@ -31,3 +31,19 @@ Maailma janoaa nyt esimerkkejä siitä, miten päästötön yhteiskunta voidaan 
 Suomen hallitusohjelmaan on kirjattu hiilineutraaliustavoite vuodelle 2035 ja tavoite olla ensimmäinen fossiilivapaa hyvinvointivaltio. Se on paljon sanottu. 
 
 Se tarkoittaa, että toimiin ryhdytään nyt eikä huomenna
+
+*Ilmastotekojen puolesta*
+
+**Demos Helsinki**
+
+**Greenpeace Suomi**
+
+**Ilmastoveivi2019-kampanja**
+
+**Sitra**
+
+**Smart&Clean Säätiö**
+
+**Helsingin kaupunki**
+
+**Gofore**

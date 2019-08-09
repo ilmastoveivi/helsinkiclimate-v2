@@ -3,7 +3,7 @@ layout: speakers
 ref: speakers
 lang: fi
 
-speakers: puhujat
+speakers: keskustelijat
 speakers-subtitle: lyhyt otsikko
 
 ---
