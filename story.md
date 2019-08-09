@@ -2,6 +2,8 @@
 layout: about
 ref: about
 lang: en
+event-date: September 11, Helsinki
+event-location: Bio Rex, Helsinki
 apply-tickets: Apply for tickets
 
 ---

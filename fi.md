@@ -3,11 +3,14 @@ layout: home
 ref: index
 lang: fi
 
+# Part 1
+event-date: 11. syyskuuta, 2019
+event-location: Bio Rex, Helsinki
+
 about-us: Meistä
 apply-tickets: Hae lippuja
 about-event: Tapahtumasta
 are-you-with-us: OLETKO KANSSAMME?
-event-date: 11. SYYSKUUTA, 2019
 read-news: Lue uusimmat uutiset
 privacy-policy: Tietosuojaseloste
 speakers: Puhujat

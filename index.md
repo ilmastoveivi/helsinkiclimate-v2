@@ -5,6 +5,7 @@ lang: en
 
 # Part 1
 event-date: SEPTEMBER 11, 2019
+event-location: BIO REX, HELSINKI
 lets:  "**Let's**"
 about-event: Read more
 
