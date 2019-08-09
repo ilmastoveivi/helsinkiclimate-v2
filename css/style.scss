@@ -341,6 +341,13 @@ blockquote {
   padding-bottom: 7.5rem;
 }
 
+.background-whole-world {
+  background-position-x: 20%;
+  background-image: url('../resources/img/helsinki_climate_globe_blue_01.png');
+  background-repeat: no-repeat;
+  background-size: 25%
+}
+
 // are you with us section
 .top-earth-blue {
   background-color: $light-blue-color;
@@ -359,13 +366,6 @@ blockquote {
 }
 
 // speakers
-#speakers {
-  background-position-x: 20%;
-  background-image: url('../resources/img/helsinki_climate_globe_blue_01.png');
-  background-repeat: no-repeat;
-  background-size: 25%
-}
-
 #speakers .content-container{
   max-width: 1000px;
 }
@@ -381,6 +381,7 @@ blockquote {
 #top-earth-yellow {
   background-image: url('../resources/img/top_earth_yellow.png');
 }
+
 @media screen and (max-width: 990px) {
   .navbar-custom {
     display: flex;
