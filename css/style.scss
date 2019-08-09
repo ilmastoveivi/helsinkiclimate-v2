@@ -11,7 +11,7 @@
 $accent-color: black;
 $primary-color: white;
 $secondary-color: #ffbd00;
-$background-color: #edff40;
+$yellowish-color: #edff40;
 $light-blue-color: #dee3ff;
 $dark-gray-color :#1b1d09;
 $body-font: "titling-gothic-normal";
@@ -33,7 +33,7 @@ html {
 }
 
 body {
-  background-color: $background-color;
+  background-color: $yellowish-color;
   overflow-x: hidden;
   font-family: $body-font;
   font-style: normal;
@@ -75,7 +75,7 @@ body {
 }
 
 .navbar {
-  background-color: $background-color;
+  background-color: $yellowish-color;
   text-transform: uppercase;
   margin-top: 0.5rem;
 }
@@ -326,8 +326,9 @@ blockquote {
 
 .bg-image-world {
   background-position: left top;
-  background-image: url('../resources/img/logos/earth_whole_2.png');
+  background-image: url('../resources/img/helsinki_climate_globe_blue_01.png');
   background-repeat: no-repeat;
+  background-size: 40%;
 }
 
 .intro-text > p {
@@ -352,6 +353,10 @@ blockquote {
 #talk_show .btn-xl {
   color: $light-blue-color;
   border-color: $light-blue-color;
+}
+
+.talk-show-bg {
+  background-size: 30%;
 }
 
 // speakers
