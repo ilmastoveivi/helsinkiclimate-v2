@@ -17,6 +17,8 @@ $dark-gray-color :#1b1d09;
 $talk-show-color :#3d400f;
 $body-font: "titling-gothic-fb";
 $secondary-font: "adobe-caslon-pro";
+$gothic-medium: 500;
+$gothic-regular: 300; 
 
 
 html {
@@ -39,7 +41,7 @@ body {
   overflow-x: hidden;
   font-family: $body-font;
   font-style: normal;
-  font-weight: 300;
+  font-weight: $gothic-regular;
   color: $talk-show-color;
   h1, h2 {
     font-weight: 500;
@@ -110,7 +112,7 @@ body {
 .navbar-custom .nav-item.active .nav-link,
 .navbar-custom .nav-item:focus .nav-link,
 .navbar-custom .nav-item:hover .nav-link {
-  color: black;
+  color: #7082D9;
 }
 
 /* Italic text between the intro-lead-in */
@@ -137,7 +139,7 @@ h1 {
   line-height: 1.5;
 }
 h2 {
-  margin-bottom: 0.75em;
+  margin-bottom: 0.75rem;
 }
 
 .event-date {
@@ -235,6 +237,18 @@ blockquote {
 
 #event-date {
   background-color: $secondary-color;
+}
+
+.speaker-name{
+  font-weight: $gothic-medium;
+}
+
+.speaker-title {
+  font-family: $secondary-font;
+}
+
+.speaker-description {
+  font-weight: $gothic-regular;
 }
 
 .speaker-element {
@@ -391,6 +405,9 @@ blockquote {
 }
 
 // are you with us section
+#are-you-with-us {
+  padding-top: 6rem;
+}
 .top-earth-blue {
   background-color: $light-blue-color;
   background-image: url('../resources/img/top_earth_blue.png');
@@ -417,11 +434,13 @@ blockquote {
 
 // speakers
 #speakers .content-container{
-  max-width: 1000px;
+  max-width: 1300px;
 }
 
-#speakers, #about h1 {
-  text-transform: uppercase;
+#speakers, #about{
+  h1 {
+    text-transform: uppercase;
+  }
 }
 
 #speakers-footer {
