@@ -334,16 +334,19 @@ blockquote {
 .intro-text > p {
  margin-bottom: 0.1rem;
 }
-
-// are you with us section
-#are-you-with-us {
-  background-color: $light-blue-color;
+.top-earth-bg {
   background-position: center bottom;
-  background-image: url('../resources/img/logos/top_earth.png');
   background-repeat: no-repeat;
   background-size: 30%;
   padding-bottom: 7.5rem;
 }
+
+// are you with us section
+.top-earth-blue {
+  background-color: $light-blue-color;
+  background-image: url('../resources/img/top_earth_blue.png');
+}
+
 //talk show
 #talk_show {
   background-color: $dark-gray-color;
@@ -355,16 +358,14 @@ blockquote {
   border-color: $light-blue-color;
 }
 
-.talk-show-bg {
-  background-size: 30%;
-}
-
 // speakers
 #speakers {
   background-position-x: 20%;
-  background-image: url('../resources/img/logos/earth_whole_2.png');
+  background-image: url('../resources/img/helsinki_climate_globe_blue_01.png');
   background-repeat: no-repeat;
+  background-size: 25%
 }
+
 #speakers .content-container{
   max-width: 1000px;
 }
@@ -373,6 +374,13 @@ blockquote {
   text-transform: uppercase;
 }
 
+#speakers-footer {
+  background-size: 25%
+}
+
+#top-earth-yellow {
+  background-image: url('../resources/img/top_earth_yellow.png');
+}
 @media screen and (max-width: 990px) {
   .navbar-custom {
     display: flex;
