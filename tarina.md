@@ -18,7 +18,7 @@ Keväällä Suomen hallitusohjelman kirjattiin historiallinen ja kunnianhimoinen
 
 On kohtuullista sanoa, että ilmastonmuutoksen vakavuus on huomattu. Emme tahdo enää olla osa ongelmaa.
 
->Lorem ipsum quote tekstiä lorem lipsum
+>Lorem ipsum quote tekstiä lorem lipsum Lorem ipsum quote tekstiä lorem lipsum Lorem ipsum quote tekstiä lorem lipsum
 
 Sitten on se toinen, vieläkin tärkeämpi tarina.
 
@@ -32,21 +32,15 @@ Suomen hallitusohjelmaan on kirjattu hiilineutraaliustavoite vuodelle 2035 ja ta
 
 Se tarkoittaa, että toimiin ryhdytään nyt eikä huomenna
 
-*Ilmastotekojen puolesta*
+*Ilmastotekojen puolesta,*
 
-**Demos Helsinki**
-
-**Greenpeace Suomi**
-
-**Ilmastoveivi2019-kampanja**
-
-**Sitra**
-
-**Smart&Clean Säätiö**
-
-**Helsingin kaupunki**
-
-**Gofore**
+**Demos Helsinki**  
+**Greenpeace Suomi**  
+**Ilmastoveivi2019-kampanja**  
+**Sitra**  
+**Smart&Clean Säätiö**  
+**Helsingin kaupunki**  
+**Gofore**  
 
 
 

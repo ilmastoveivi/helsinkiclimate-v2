@@ -9,7 +9,7 @@ lets:  "**Let's**"
 about-event: Read more
 
 # Part 2
-we-want-you-part: "We want you to be part of it."
+we-want-you-part: We want you to be part of it
 brutally-honest: "Join the brutally honest climate talk show online or on the spot. Only a limited amount of tickets available."
 apply-tickets: Get tickets
 
