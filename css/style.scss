@@ -14,6 +14,7 @@ $secondary-color: #ffbd00;
 $yellowish-color: #edff40;
 $light-blue-color: #dee3ff;
 $dark-gray-color :#1b1d09;
+$talk-show-color :#3d400f;
 $body-font: "titling-gothic-fb";
 $secondary-font: "adobe-caslon-pro";
 
@@ -49,16 +50,17 @@ body {
 }
 
 .btn-xl {
-  font-size: 1.5rem;
+  padding-top: 1rem;
+  font-size: 2.5rem;
   min-width: 18.5rem;
   color: $accent-color;
   border-color: $accent-color;
   border-radius: 0.2rem;
   font-family: $secondary-font;
   font-style: italic;
-  line-height: 3.75rem;
-  padding-left: 3rem;
-  padding-right: 3rem;
+  line-height: 3.25rem;
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
 }
 
 .btn-light-blue {
@@ -344,6 +346,16 @@ blockquote {
   background-size: 40%;
 }
 
+#intro .intro-text-header {
+  font-family: "adobe-caslon-pro";
+  font-style: italic;
+  font-size: 4.3vw;
+  margin-bottom: -15px;
+}
+#intro .intro-text {
+  font-size: 1.5rem;
+}
+
 .intro-text > p {
  margin-bottom: 0.1rem;
 }
@@ -361,9 +373,12 @@ blockquote {
   background-size: 25%
 }
 
-#helsinki-small-logo {
-  max-width: 75%;
+#helsinki-small-logo{
+  max-width: 70%;
   height: auto;
+}
+#helsinki-small-logo-front{
+  max-width: 60%;
 }
 
 // are you with us section
@@ -374,10 +389,18 @@ blockquote {
 
 //talk show
 #talk_show {
-  background-color: $dark-gray-color;
+  background-color: $talk-show-color;
   color: $light-blue-color;
+  padding: 0rem;
+}
+#talk_show .intro-text-header {
+  font-size: 2.3vw;
+  text-transform: uppercase;
 }
 
+#talk_show #talk-text-container {
+  max-width: 50%;
+}
 #talk_show .btn-xl {
   color: $light-blue-color;
   border-color: $light-blue-color;
