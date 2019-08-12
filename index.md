@@ -1,32 +1,25 @@
 ---
 layout: home
 ref: index
-lang: en
+lang: fi
 
 # Part 1
-event-date: SEPTEMBER 11, 2019
-event-location: BIO REX, HELSINKI
+event-date: 11. syyskuuta, 2019
+event-location: Bio Rex, Helsinki
+
+about-us: Meistä
+apply-tickets: Hae lippuja
+about-event: Tapahtumasta
+are-you-with-us: OLETKO KANSSAMME?
+read-news: Lue uusimmat uutiset
+privacy-policy: Tietosuojaseloste
+speakers: Puhujat
+stay-tuned: PYSY KUULOLLA!
+supported-by: TUKIJAT
 lets:  "**Let's**"
-about-event: Read more
-
-# Part 2
-we-want-you-part: We want you to be part of it
-brutally-honest: "Join the brutally honest climate talk show online or on the spot. Only a limited amount of tickets available."
-apply-tickets: Get tickets
-
-# Part 3
-are-you-with-us: Are you with us?
-we-want-make-world: We want to turn carbon neutrality into a reality. How?
-
-about-us: About us
-
-read-news: Read all latest news
-privacy-policy: Privacy policy
-speakers: Speakers
-stay-tuned: STAY TUNED!
-supported-by: SUPPORTED BY
-time-for-yes: "The time for “yes, but” is over. <span style='font-family:adobe-caslon-pro; font-size:2.0rem; font-weight: 600;'>Helsinki Climate</span> brings the doers of carbon neutral future together. "
-
-speakers_link: "/speakers"
-about_link: "/story"
+time-for-yes: "Puheiden aika on ohi. Meidän on ryhdyttävä ilmastotekoihin nyt. *Helsinki Climate* kokoaa yhteen hiilineutraalin Suomen ja Euroopan tekijät." 
+brutally-honest: "**Suunnattoman rehellinen ilmasto talk-show**"
+we-want-you-part: "Me haluamme sinut mukaan. Osallistu paikan päällä tai seuraa tapahtumaa livenä."
+speakers_link: "/keskustelijat"
+about_link: "/tarina"
 ---
