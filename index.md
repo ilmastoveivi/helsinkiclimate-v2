@@ -25,7 +25,7 @@ privacy-policy: Privacy policy
 speakers: Speakers
 stay-tuned: STAY TUNED!
 supported-by: SUPPORTED BY
-time-for-yes: "The time for “yes, but” is over. Helsinki Climate brings the doers of carbon neutral future together. "
+time-for-yes: "The time for “yes, but” is over. <span style='font-family:adobe-caslon-pro; font-size:2.0rem; font-weight: 600;'>Helsinki Climate</span> brings the doers of carbon neutral future together. "
 
 speakers_link: "/speakers"
 about_link: "/story"

@@ -4,14 +4,13 @@
         <div class="bg-image-world pb-3">
             <div class="row d-flex ml-4 justify-content-center">
                 <div class="col-sm-12 col-xl-10">
-                  <div class="text-sm-center text-xl-left mt-5 mb-5">
+                  <div class="text-sm-center text-xl-left mt-5">
                     <div class="intro-text">
-                      <h2 class="intro-text-header">
-                        {{page.lets | markdownify}}
-                      </h2>
-                      <div class="intro-text">
-                        {{page.time-for-yes | markdownify}}
+                      <div id="lets" class="intro-text-header">
                       </div>
+                      <div class="intro-text">
+                          {{page.time-for-yes | markdownify}}
+                        </div>
                     </div>
                     <div class="mt-3">
                         <a href="{{ page.about_link }}" class="page-scroll btn btn-xl">{{page.about-event}}</a>
@@ -24,24 +23,19 @@
     </div>
 </section>
 <script>
-    const interval = 3000
-    var markers = "{{page.time-for-yes | json}}";
-    var text = [
-      "<b>Let's</b> go carbon neutral.",
-      "<b>Let's</b> talk about 2030.",
-      "<b>Let's</b> make 1.5C a reality.",
-      "<b>Let's</b> be honest with our youth.",
-      "<b>Let's</b> move towards a one planet economy.",
-      "<b>Let's</b> build a fossil-free society.",
-      "<b>Let's</b> face the carbon-free facts.",
-      "<b>Let's</b> make solutions for a 1.5C world.",
-    ];
-    var counter = Math.floor(Math.random() * 6);
-    $('#lets').html(text[counter % text.length]);
-    setInterval(change, interval);
-    function change() {
-      counter++;
-      $('#lets').html(text[counter % text.length]);
-      
-    }
-  </script>
+  const interval = 3000
+  var lets = "{{page.lang | escape}}" === 'fi  ' ? "<b>Let's</b> " : "<b>Let's</b> "
+  var sentences = [
+  {% for speaker in site.data.lets[page.lang] %}
+    '{{ speaker.sentence}}'{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+  ]
+  var counter = Math.floor(Math.random() * 6);
+  $('#lets').html(lets + sentences[counter % sentences.length]);
+  setInterval(change, interval);
+  function change() {
+    counter++;
+    $('#lets').html(lets + sentences[counter % sentences.length]);
+    
+  }
+</script>
