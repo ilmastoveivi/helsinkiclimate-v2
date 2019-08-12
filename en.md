@@ -7,6 +7,7 @@ lang: en
 event-date: SEPTEMBER 11, 2019
 event-location: BIO REX, HELSINKI
 lets:  "**Let's**"
+time-for-yes: "The time for “yes, but” is over. <span style='font-family:adobe-caslon-pro; font-size:2.0rem; font-weight: 600;'>Helsinki Climate</span> brings the doers of carbon neutral future together. "
 about-event: Read more
 
 # Part 2
@@ -21,11 +22,9 @@ we-want-make-world: We want to turn carbon neutrality into a reality. How?
 about-us: About us
 
 read-news: Read all latest news
-privacy-policy: Privacy policy
 speakers: Speakers
 stay-tuned: STAY TUNED!
 supported-by: SUPPORTED BY
-time-for-yes: "The time for “yes, but” is over. <span style='font-family:adobe-caslon-pro; font-size:2.0rem; font-weight: 600;'>Helsinki Climate</span> brings the doers of carbon neutral future together. "
 
 speakers_link: "/speakers"
 about_link: "/story"
