@@ -17,6 +17,8 @@ $dark-gray-color :#1b1d09;
 $talk-show-color :#3d400f;
 $body-font: "titling-gothic-fb";
 $secondary-font: "adobe-caslon-pro";
+$gothic-medium: 500;
+$gothic-regular: 300; 
 
 
 html {
@@ -39,12 +41,16 @@ body {
   overflow-x: hidden;
   font-family: $body-font;
   font-style: normal;
-  font-weight: 300;
+  font-weight: $gothic-regular;
+  color: $talk-show-color;
   h1, h2 {
     font-weight: 500;
   }
   nav {
     font-weight: 500;
+  }
+  p {
+    line-height: 1.3;
   }
 
 }
@@ -106,7 +112,7 @@ body {
 .navbar-custom .nav-item.active .nav-link,
 .navbar-custom .nav-item:focus .nav-link,
 .navbar-custom .nav-item:hover .nav-link {
-  color: black;
+  color: #7082D9;
 }
 
 /* Italic text between the intro-lead-in */
@@ -129,7 +135,15 @@ section {
 }
 
 h1 {
-  font-size: 4.5rem;
+  font-size: 4rem;
+  line-height: 1.5;
+}
+h2 {
+  margin-bottom: 0.75rem;
+}
+
+.event-date {
+  text-transform: uppercase;
 }
 
 @media screen and (max-width: 650px) {
@@ -139,9 +153,6 @@ h1 {
    h2 {
      font-size: 1.25rem;
    }
-}
-#about h2 {
-  font-weight: bold;
 }
 
 #about #apply-tickets {
@@ -161,7 +172,7 @@ blockquote {
   margin-left: -2rem;
   padding-left: 2rem;
   font-family: $secondary-font;
-  font-size: 1.5rem;
+  font-size: 2rem;
   font-style: italic;
   font-weight: bold;
 }
@@ -226,6 +237,18 @@ blockquote {
 
 #event-date {
   background-color: $secondary-color;
+}
+
+.speaker-name{
+  font-weight: $gothic-medium;
+}
+
+.speaker-title {
+  font-family: $secondary-font;
+}
+
+.speaker-description {
+  font-weight: $gothic-regular;
 }
 
 .speaker-element {
@@ -382,6 +405,9 @@ blockquote {
 }
 
 // are you with us section
+#are-you-with-us {
+  padding-top: 6rem;
+}
 .top-earth-blue {
   background-color: $light-blue-color;
   background-image: url('../resources/img/top_earth_blue.png');
@@ -394,7 +420,6 @@ blockquote {
   padding: 0rem;
 }
 #talk_show .intro-text-header {
-  font-size: 2.3vw;
   text-transform: uppercase;
 }
 
@@ -406,13 +431,20 @@ blockquote {
   border-color: $light-blue-color;
 }
 
-// speakers
-#speakers .content-container{
-  max-width: 1000px;
+.talk-show-container {
+  display: flex;
+  justify-content: space-between;
 }
 
-#speakers, #about h1 {
-  text-transform: uppercase;
+// speakers
+#speakers .content-container{
+  max-width: 1300px;
+}
+
+#speakers, #about{
+  h1 {
+    text-transform: uppercase;
+  }
 }
 
 #speakers-footer {
@@ -423,7 +455,10 @@ blockquote {
   background-image: url('../resources/img/top_earth_yellow.png');
 }
 
-@media screen and (max-width: 990px) {
+@media screen and (max-width: 991px) {
+  .earth-side {
+    display: none;
+  }
   .navbar-custom {
     display: flex;
     justify-content: center;
@@ -431,10 +466,23 @@ blockquote {
   #lang-bar {
     display: flex;
     justify-content: center;
+    margin: 0rem;
+    .lang-bar-item:last-child {
+      margin-right: 0rem;
+    }
   }
   .intro-text,
   #button-col {
     text-align: center;
+  }
+
+  .talk-show-container {
+    justify-content: center;
+  }
+
+  #talk-text-container {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
   }
 
   .btn-xl {
@@ -443,6 +491,7 @@ blockquote {
     line-height: 1.75rem;
     padding-left: 1.5rem;
     padding-right: 1.5rem;
+    margin-top: 1rem;
   }
   .intro-lead-in {
     line-height: 2rem;

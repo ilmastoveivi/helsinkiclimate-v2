@@ -2,19 +2,20 @@
     <div class="content-container">
         <div class="row">
             <div class="col-12 text-center">
-                <div class="text-uppercase">
+                <h2 class="text-uppercase">
                     {{ page.are-you-with-us | markdownify }}
-                </div>
-                {{ page.we-want-make-world | markdownify }}
-                <div class="mt-4">
+                </h2>
+                    {{ page.we-want-make-world | markdownify }}
+                <div>
                     <a href="{{ page.speakers_link }}"
                         class="page-scroll btn btn-xl btn-light-blue">{{ page.speakers }}</a>
                 </div>
             </div>
         </div>
         <div class="row justify-content-center text-center mt-4">
-            {% for speaker in site.data.speakers[page.lang] %}
-              {% include speakers/speaker_small.html name=speaker.name title=speaker.title description=speaker.description img=speaker.img %}
+            {% for i in (1..9) %}
+              {% assign speaker = site.data.speakers[page.lang][i] %}
+                {% include speakers/speaker_small.html name=speaker.name title=speaker.title description=speaker.description img=speaker.img %}
             {% endfor %}
         </div>
     </div>

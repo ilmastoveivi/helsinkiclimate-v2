@@ -11,32 +11,32 @@
       <li class="nav-item">
         <a class="nav-link" href="/">Helsinki climate</a>
       </li>
-      <li class="nav-item">
+      <li {% if page.ref == 'about' %}class='active nav-item' {% else %} class="nav-item" {% endif %} >
         <a class="nav-link" href="/story">Story</a>
       </li>
-      <li class="nav-item">
+      <li {% if page.ref == 'speakers' %}class='active nav-item' {% else %} class="nav-item" {% endif %}>
         <a class="nav-link" href="/speakers">Speakers</a>
       </li>
-      <li class="nav-item">
+      <li {% if page.ref == 'info' %}class='active nav-item' {% else %} class="nav-item" {% endif %}>
         <a class="nav-link" href="/info">Info</a>
       </li>
-      <li class="nav-item">
+      <li {% if page.ref == 'tickets' %}class='active nav-item' {% else %} class="nav-item" {% endif %}>
         <a class="nav-link" href="/tickets">Apply for tickets</a>
       </li>
       {% elsif page.lang == "fi" %}
       <li class="nav-item">
         <a class="nav-link" href="/">Helsinki Climate</a>
       </li>
-      <li class="nav-item">
+      <li {% if page.ref == 'about' %}class='active nav-item' {% else %} class="nav-item" {% endif %}>
         <a class="nav-link" href="/tarina">Tarina</a>
       </li>
-      <li class="nav-item">
+      <li {% if page.ref == 'speakers' %}class='active nav-item' {% else %} class="nav-item" {% endif %}>
         <a class="nav-link" href="/keskustelijat">Keskustelijat</a>
       </li>
-      <li class="nav-item">
+      <li {% if page.ref == 'info' %}class='active nav-item' {% else %} class="nav-item" {% endif %}>
         <a class="nav-link" href="/tietoa">Info</a>
       </li>
-      <li class="nav-item">
+      <li {% if page.ref == 'tickets' %}class='active nav-item' {% else %} class="nav-item" {% endif %}>
         <a class="nav-link" href="/liput">Hae lippuja</a>
       </li>
       {% endif %}

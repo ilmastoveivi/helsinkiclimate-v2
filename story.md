@@ -2,6 +2,8 @@
 layout: about
 ref: about
 lang: en
+event-date: September 11, Helsinki
+event-location: Bio Rex, Helsinki
 apply-tickets: Apply for tickets
 
 ---
@@ -32,18 +34,12 @@ Suomen hallitusohjelmaan on kirjattu hiilineutraaliustavoite vuodelle 2035 ja ta
 
 Se tarkoittaa, että toimiin ryhdytään nyt eikä huomenna
 
-*Ilmastotekojen puolesta*
+*Ilmastotekojen puolesta,*
 
-**Demos Helsinki**
-
-**Greenpeace Suomi**
-
-**Ilmastoveivi2019-kampanja**
-
-**Sitra**
-
-**Smart&Clean Säätiö**
-
-**Helsingin kaupunki**
-
-**Gofore**
+**Demos Helsinki**  
+**Greenpeace Suomi**  
+**Ilmastoveivi2019-kampanja**  
+**Sitra**  
+**Smart&Clean Säätiö**  
+**Helsingin kaupunki**  
+**Gofore**  
