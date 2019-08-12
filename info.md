@@ -14,7 +14,7 @@ Contact us: info@helsinkiclimate.org
 
 Media contacts: 040 748 0000
 
-Seuraa LISÄÄ TWITTER
+Seuraa ADD TWITTER
 
 ## Press releases
 
@@ -22,8 +22,7 @@ LISÄÄ TIEDOTE
 
 ## Osallistuminen 
 
-Information about the event in English
+Helsinki Climate brings together the makers of a carbon neutral future at Bio Rex in Lasipalatsi, Helsinki, on 11 September, 2019. Anyone around the world can participate by following the live show online. In addition, there is a limited number of tickets available for the event. Together we need to provide the best ideas for a zero-emission society. For this reason, Helsinki Climate is open to everyone, regardless of income, education, age, or other factors. 
 
-Helsinki Climate kokoaa yhteen hiilineutraalin tulevaisuuden tekijät Bio Rexiin, Helsingin Lasipalatsiin 11.9.2019. Tapahtumaan voi osallistua paikan päällä tai seurata ohjelmaa livenä. Meitä on joka lähtöön, ja meiltä kaikilta vaaditaan nyt parhaat ideat päästöttömän yhteiskunnan toteuttamiseen. Siksi Helsinki Climate on avoin kaikille varallisuudesta, koulutuksesta, iästä tai muusta seikasta huolimatta. Rohkaisemme kaikkia ilmastotekoja janoavia osallistumaan xxx. 
-Tapahtuman live-lähetyksestä lisää tietoa täällä. (linkki fb-tapahtumaan)
-Liput tapahtumaan löytyvät täältä. Paikkoja rajoitetusti, joten toimithan nopeasti!
+More information about the live event here. (ADD LINK: fb event)
+Tickets are available here.(ADD LINK) There is a limited number of seats available.
