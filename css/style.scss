@@ -264,6 +264,11 @@ blockquote {
   align-items: center;
   justify-content: center;
 }
+.speaker-element-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 .speaker-element .tooltiptext {
   font-size: 0.75rem;
   visibility: hidden;
@@ -275,6 +280,14 @@ blockquote {
   position: absolute;
   z-index: 1;
 }
+
+.tooltiptext .title{
+  text-transform: capitalize;
+}
+.tooltiptext .sub-title {
+  font-family: $secondary-font;
+}
+
 
 /* Show the tooltip text when you mouse over the tooltip container */
 .speaker-element:hover .tooltiptext {
@@ -517,5 +530,24 @@ blockquote {
   #lang-bar {
     margin-left: auto!important;
     margin-right:  auto!important;
+  }
+
+  .speaker-element {
+    display: block;
+    align-items: center;
+    justify-content: center;
+  }
+  .speaker-element .tooltiptext {
+    visibility: visible;
+    width: auto;
+    height: auto;
+    background-color: transparent;
+    position: relative;
+    z-index: 1;
+  }
+
+  /* Show the tooltip text when you mouse over the tooltip container */
+  .speaker-element:hover .tooltiptext {
+    visibility: visible;
   }
 }
