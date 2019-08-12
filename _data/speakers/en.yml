@@ -1,15 +1,60 @@
 ---
-- name: Li Anderson
-  title: Minister of education
-  description: Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
-  img: https://via.placeholder.com/250
-
-- name: John Smith
-  title: Title
-  description: Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
-  img: https://via.placeholder.com/250
-
-- name: John Smith
+- name: Anni Sinnemäki
   title: Title
   description: Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
-  img: https://via.placeholder.com/250
+  img: resources/img/speakers/anni_sinnemaki.jpg
+
+- name: Antero Vartia
+  title: Title
+  description: Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+  img: resources/img/speakers/antero_vartia.jpeg
+
+- name: Jukka Ruusunen
+  title: Title
+  description: Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+  img: resources/img/speakers/jukka_ruusunen.jpg
+
+- name: Katri Kulmuni
+  title: Title
+  description: Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+  img: resources/img/speakers/katri_kulmuni.jpg
+
+- name: Krista Huhtala-Jenks
+  title: Title
+  description: Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+  img: resources/img/speakers/krista_huhtala-jenks.jpg
+
+- name: Krista Mikkonen
+  title: Title
+  description: Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+  img: resources/img/speakers/krista_mikkonen.jpg
+
+- name: Li Andersson
+  title: Title
+  description: Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+  img: resources/img/speakers/li_andersson.jpg
+
+- name: Matti Rautkivi
+  title: Title
+  description: Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+  img: resources/img/speakers/matti_rautkivi.jpg
+
+- name: Pasi Vainikka
+  title: Title
+  description: Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+  img: resources/img/speakers/pasi_vainikka.jpg
+
+- name: Patrizio Laina
+  title: Title
+  description: Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+  img: resources/img/speakers/patrizio_laina.jpg
+
+- name: Pekka Timonen
+  title: Title
+  description: Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+  img: resources/img/speakers/pekka_timonen.jpg
+
+- name: Teresa Ribera
+  title: Title
+  description: Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+  img: resources/img/speakers/teresa_ribera.jpg
