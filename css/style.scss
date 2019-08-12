@@ -401,7 +401,7 @@ blockquote {
 #intro .intro-text-header {
   font-family: "adobe-caslon-pro";
   font-style: italic;
-  font-size: 4.3vw;
+  font-size: 3rem;
   margin-bottom: -15px;
 }
 #intro .intro-text {
@@ -485,6 +485,10 @@ blockquote {
 }
 
 @media screen and (max-width: 991px) {
+  .content-container {
+    padding-left: 3.25rem;
+    padding-right: 3.25rem;
+  }
   .earth-side {
     display: none;
   }
