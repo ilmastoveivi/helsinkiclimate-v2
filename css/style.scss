@@ -273,7 +273,7 @@ blockquote {
   visibility: visible;
 }
 /* The widths are defined based on sizes and dimensions of the logos. Wihuri logo is not defined here at all, but
-   its original width is used  */
+   its original 100px width and height is used as a baseline for these values */
 #gofore {
   width: 12.5rem;
 }
@@ -297,6 +297,10 @@ blockquote {
 
 #smartclean {
   width: 12.5rem;
+}
+
+#helsinki {
+  height: 100px;
 }
 
 
