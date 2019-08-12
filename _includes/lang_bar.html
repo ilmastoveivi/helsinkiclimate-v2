@@ -3,7 +3,7 @@
     {% if page.ref!=null %}
       {% assign pages=site.pages | where:"ref", page.ref | sort: "lang" | reverse %}
       {% for p in pages %} 
-        <li class="nav-item">
+        <li class="nav-item lang-item">
           {% if p.lang == "fi"  %}
             {% if page.lang == "fi"  %}
               <a href="#" class=" nav-link {{ page.lang }} active"> FI </a>

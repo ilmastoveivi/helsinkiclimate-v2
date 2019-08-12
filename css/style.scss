@@ -104,6 +104,9 @@ body {
   text-align: center;
 }
 
+.lang-item + .lang-item {
+  padding-left: 1rem;
+}
 /* change the link color */
 .navbar-custom .navbar-nav .nav-link {
   color: black;
@@ -555,6 +558,10 @@ blockquote {
     background-color: transparent;
     position: relative;
     z-index: 1;
+  }
+
+  .lang-item + .lang-item {
+    padding-left: 0rem;
   }
 
   /* Show the tooltip text when you mouse over the tooltip container */
