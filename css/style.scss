@@ -90,14 +90,6 @@ body {
   text-transform: uppercase;
 }
 
-
- .navbar-collapse.collapse.show {
-  height: 100vh;
-}
-.navbar-nav {
-  height: 30vh;
-}
-
 .navbar {
   background-color: $yellowish-color;
   text-transform: uppercase;
@@ -487,7 +479,14 @@ blockquote {
 @media screen and (max-width: 991px) {
   .content-container {
     padding-left: 3.25rem;
-    padding-right: 3.25rem;
+    padding-right: 3.5rem;
+  }
+
+  .navbar-collapse.collapse.show {
+    height: 100vh;
+  }
+  .navbar-nav {
+    height: 30vh;
   }
   .earth-side {
     display: none;
