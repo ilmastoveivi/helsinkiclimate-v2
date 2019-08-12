@@ -1,9 +1,9 @@
-<div class= "ml-auto" id="lang-bar">
-    <ul class="list-group list-group-horizontal navbar-nav mt-2 mt-lg-0">
+<!-- <div class="navbar-collapse collapse order-3 dual-collapse2" id="lang-bar"> -->
+    <ul id="lang-bar" class="navbar-nav ml-auto">
     {% if page.ref!=null %}
       {% assign pages=site.pages | where:"ref", page.ref | sort: "lang" | reverse %}
       {% for p in pages %} 
-        <li class="lang-bar-item ">
+        <li class="nav-item">
           {% if p.lang == "fi"  %}
             {% if page.lang == "fi"  %}
               <a href="#" class=" nav-link {{ page.lang }} active"> FI </a>
@@ -20,6 +20,5 @@
         </li>
       {% endfor %}
     {% endif %}
-    
     </ul>
-</div>
+<!-- </div> -->

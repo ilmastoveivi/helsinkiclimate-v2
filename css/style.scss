@@ -90,6 +90,14 @@ body {
   text-transform: uppercase;
 }
 
+
+ .navbar-collapse.collapse.show {
+  height: 100vh;
+}
+.navbar-nav {
+  height: 30vh;
+}
+
 .navbar {
   background-color: $yellowish-color;
   text-transform: uppercase;
@@ -464,8 +472,6 @@ blockquote {
     justify-content: center;
   }
   #lang-bar {
-    display: flex;
-    justify-content: center;
     margin: 0rem;
     .lang-bar-item:last-child {
       margin-right: 0rem;
@@ -506,5 +512,10 @@ blockquote {
     align-items: center;
     flex-direction: column;
     padding-top: 10vh;
+  }
+
+  #lang-bar {
+    margin-left: auto!important;
+    margin-right:  auto!important;
   }
 }
