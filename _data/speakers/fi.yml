@@ -17,7 +17,7 @@
 - name: Katri Kulmuni
   title: Title
   description: Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
-  img: resources/img/speakers/katri_kulmuni.png
+  img: resources/img/speakers/katri_kulmuni.jpg
 
 - name: Krista Huhtala-Jenks
   title: Title
@@ -52,7 +52,7 @@
 - name: Pekka Timonen
   title: Title
   description: Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
-  img: resources/img/speakers/pekka_timonen.jpeg
+  img: resources/img/speakers/pekka_timonen.jpg
 
 - name: Teresa Ribera
   title: Title
