@@ -4,6 +4,6 @@ ref: speakers
 lang: fi
 
 speakers: keskustelijat
-speakers-subtitle: lyhyt otsikko
+speakers-subtitle: Nyt on ryhdyttävä toimiin
 
 ---

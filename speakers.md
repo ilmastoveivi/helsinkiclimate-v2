@@ -4,6 +4,6 @@ ref: speakers
 lang: en
 
 speakers: speakers
-speakers-subtitle: short subtitle
+speakers-subtitle: Let's talk about 2030
 
 ---
