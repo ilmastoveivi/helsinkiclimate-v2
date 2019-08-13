@@ -1,18 +1,23 @@
 ---
 - name: Anni Sinnemäki
-  title: Title
+  title: Kaupunkiympäristön apulaispormestari
   description: "“Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum”" 
   img: resources/img/speakers/anni_sinnemaki.jpg
 
 - name: Antero Vartia
-  title: Title
+  title: Compensate-säätiön perustaja
   description: "“Mikään ei oikeuta meitä lisäämään hiilidioksidin määrää ilmakehässä. Niin kauan kun vahinkoa aiheutetaan, vahingon aiheuttajan on kannettava vastuu vahingosta. Kun tämä otetaan kaikessa toiminnassa lähtökohdaksi, syntyy myös toimivia ratkaisuja.”" 
   img: resources/img/speakers/antero_vartia.jpg
 
 - name: Jukka Ruusunen
-  title: Title
+  title: Toimitusjohtaja, Fingrid
   description: "“Puhdistetaan sähköjärjestelmä ja käytetään puhdasta sähköä lämmityksen ja liikenteen puhdistamiseen.”" 
   img: resources/img/speakers/jukka_ruusunen.jpg
+
+- name: Teresa Ribera
+  title: Minister for the Ecological Transition of Spain
+  description: "“It's important that tackling climate change is Finland's top priority for Europe during its EU presidency. We are playing with our common future, and we need everybody on board.”" 
+  img: resources/img/speakers/teresa_ribera.jpg
 
 - name: Julia Barbasiewicz ja Antoni Wiśniewski-Mischal
   title: Title
@@ -21,52 +26,47 @@
 
 
 - name: Katri Kulmuni
-  title: Title
+  title: Elinkeinoministeri
   description: "“Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum”"
   img: resources/img/speakers/katri_kulmuni.jpg
 
 - name: Krista Huhtala-Jenks
-  title: Title
+  title: Head of Ecosystem & Sustainability, MaaS Global
   description: "“Pääsemme ilmastotavoitteisiin, kun vihreistä vaihtoehdoista tulee muita houkuttelevimpia. Juuri sitä tavoittelemme MaaSin ja Whimin avulla: että palveluiden käyttö olisi omaa autoa parempi vaihtoehto.”"
   img: resources/img/speakers/krista_huhtala-jenks.jpg
 
 - name: Krista Mikkonen
-  title: Title
+  title: Ympäristö- ja ilmastoministeri
   description: "“Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum”"
   img: resources/img/speakers/krista_mikkonen.jpg
 
 - name: Laura Kolehmainen
-  title: Title
+  title: Perustaja, Ilmastoveivi2019-kampanja
   description: "“Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum”"
   img: resources/img/speakers/laura_kolehmainen.jpg
 
 
 - name: Li Andersson
-  title: Title
+  title: Opetusministeri
   description: "“Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum”"
   img: resources/img/speakers/li_andersson.jpg
 
 - name: Matti Rautkivi
-  title: Title
+  title: Johtaja, Wärtsilä
   description: "“Ilmastotavoitteista tehdään totta tekemällä – eväät ovat olemassa.”"
   img: resources/img/speakers/matti_rautkivi.jpg
 
 - name: Pasi Vainikka
-  title: Title
+  title: Toimitusjohtaja, Solar Foods Oy
   description: "“Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum”" 
   img: resources/img/speakers/pasi_vainikka.jpg
 
-- name: Patrizio Laina
-  title: Title
+- name: Patrizio Lainà
+  title: Pääekonomisti, STTK
   description: "“Ilmastotavoitteesta tehdään totta uudenlaisen talousajattelun avulla ja valjastamalla koko yhteiskunta sotataloustyyliin sen päämäärän eteen.”"
   img: resources/img/speakers/patrizio_laina.jpg
 
 - name: Pekka Timonen
-  title: Title
+  title: Lahden kaupunginjohtaja
   description: "“Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum”" 
   img: resources/img/speakers/pekka_timonen.jpg
-
-- name: Teresa Ribera
-  title: Title
-  description: "“It's important that tackling climate change is Finland's top priority for Europe during its EU presidency. We are playing with our common future, and we need everybody on board.”" 
-  img: resources/img/speakers/teresa_ribera.jpg
