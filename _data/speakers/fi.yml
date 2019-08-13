@@ -1,7 +1,7 @@
 ---
 - name: Anni Sinnemäki
   title: Kaupunkiympäristön apulaispormestari
-  description: "“Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum”" 
+  description: 
   img: resources/img/speakers/anni_sinnemaki.jpg
 
 - name: Antero Vartia
@@ -16,18 +16,18 @@
 
 - name: Teresa Ribera
   title: Minister for the Ecological Transition of Spain
-  description: "“It's important that tackling climate change is Finland's top priority for Europe during its EU presidency. We are playing with our common future, and we need everybody on board.”" 
+  description: "“On todella tärkeää, että ilmastonmuutoksen torjuminen on Suomen EU-puheenjohtajuuskauden kärkitavoite. Kyse on yhteisestä tulevaisuudestamme ja tarvitsemme kaikki mukaan.”" 
   img: resources/img/speakers/teresa_ribera.jpg
 
 - name: Julia Barbasiewicz ja Antoni Wiśniewski-Mischal
-  title: Title
-  description: "Lorem ipsum description text" 
+  title: Ilmastoaktivisteja
+  description: 
   img: resources/img/speakers/julia_barbasiewicz_and_antoni_wissniewski-mischal.jpg
 
 
 - name: Katri Kulmuni
   title: Elinkeinoministeri
-  description: "“Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum”"
+  description:
   img: resources/img/speakers/katri_kulmuni.jpg
 
 - name: Krista Huhtala-Jenks
@@ -37,18 +37,18 @@
 
 - name: Krista Mikkonen
   title: Ympäristö- ja ilmastoministeri
-  description: "“Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum”"
+  description:
   img: resources/img/speakers/krista_mikkonen.jpg
 
 - name: Laura Kolehmainen
   title: Perustaja, Ilmastoveivi2019-kampanja
-  description: "“Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum”"
+  description: "“Meidän on tehtävä kaikkemme, jotta yhteiskuntamme, taloutemme ja elämäntapamme lakkaavat pyörimästä kestämättömin, itsensä tuhoavin periaattein. Rohkeasti ja etunojassa. Raha on tuotava pois kestämättömästä toiminnasta kestävään kehittämiseen. Ilmastotavoitteet saavutetaan, jos ne priorisoidaan niiden ansaitsemalle kiireellisyyden tasolle. Joka tasolla pitää löytyä lisää johtajia.”"
   img: resources/img/speakers/laura_kolehmainen.jpg
 
 
 - name: Li Andersson
   title: Opetusministeri
-  description: "“Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum”"
+  description:
   img: resources/img/speakers/li_andersson.jpg
 
 - name: Matti Rautkivi
@@ -58,7 +58,7 @@
 
 - name: Pasi Vainikka
   title: Toimitusjohtaja, Solar Foods Oy
-  description: "“Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum”" 
+  description: 
   img: resources/img/speakers/pasi_vainikka.jpg
 
 - name: Patrizio Lainà
@@ -68,5 +68,5 @@
 
 - name: Pekka Timonen
   title: Lahden kaupunginjohtaja
-  description: "“Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum”" 
+  description:
   img: resources/img/speakers/pekka_timonen.jpg

@@ -1,71 +1,71 @@
 ---
 - name: Anni Sinnemäki
-  title: Title
-  description: "“Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum”" 
+  title: Deputy Mayor for Urban Environment
+  description: 
   img: resources/img/speakers/anni_sinnemaki.jpg
 
 - name: Antero Vartia
-  title: Title
-  description: "“Mikään ei oikeuta meitä lisäämään hiilidioksidin määrää ilmakehässä. Niin kauan kun vahinkoa aiheutetaan, vahingon aiheuttajan on kannettava vastuu vahingosta. Kun tämä otetaan kaikessa toiminnassa lähtökohdaksi, syntyy myös toimivia ratkaisuja.”" 
+  title: Founder, Compensate Foundation
+  description: "“There is nothing that would justify more carbon dioxide in the atmosphere. When harm is being done, the ones causing it should hold responsibility. When this becomes the basic principle, we will start finding solutions that work”" 
   img: resources/img/speakers/antero_vartia.jpg
 
 - name: Jukka Ruusunen
-  title: Title
+  title: CEO, Fingrid
   description: "“Puhdistetaan sähköjärjestelmä ja käytetään puhdasta sähköä lämmityksen ja liikenteen puhdistamiseen.”" 
   img: resources/img/speakers/jukka_ruusunen.jpg
 
 - name: Teresa Ribera
-  title: Title
+  title: Minister for the Ecological Transition of Spain
   description: "“It's important that tackling climate change is Finland's top priority for Europe during its EU presidency. We are playing with our common future, and we need everybody on board.”" 
   img: resources/img/speakers/teresa_ribera.jpg
 
 - name: Julia Barbasiewicz and Antoni Wiśniewski-Mischal
-  title: Title
-  description: "Lorem ipsum description text" 
+  title: Climate activists
+  description:
   img: resources/img/speakers/julia_barbasiewicz_and_antoni_wissniewski-mischal.jpg
 
 
 - name: Katri Kulmuni
-  title: Title
-  description: "“Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum”"
+  title: Minister of Economic affairs
+  description:
   img: resources/img/speakers/katri_kulmuni.jpg
 
 - name: Krista Huhtala-Jenks
-  title: Title
-  description: "“Pääsemme ilmastotavoitteisiin, kun vihreistä vaihtoehdoista tulee muita houkuttelevimpia. Juuri sitä tavoittelemme MaaSin ja Whimin avulla: että palveluiden käyttö olisi omaa autoa parempi vaihtoehto.”"
+  title: Head of Ecosystem & Sustainability, MaaS Global
+  description: "“We can hit the goals by making the green options the most convenient ones. With MaaS and our Whim service that's exactly what we are aiming to do – offering a MaaS service that is better than owning your own car.”"
   img: resources/img/speakers/krista_huhtala-jenks.jpg
 
 - name: Krista Mikkonen
-  title: Title
-  description: "“Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum”"
+  title: Minister of the Environment and Climate  Change
+  description:
   img: resources/img/speakers/krista_mikkonen.jpg
 
 - name: Laura Kolehmainen
-  title: Title
-  description: "“Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum”"
+  title: Founder, Ilmastoveivi2019 climate campaign
+  description: "“We all have to give our everything in order to stop our society, our economy and our lifestyle from revolving around unsustainable, self-destructive principles. Bravely and leaning forward. Money must be redirected from unsustainable actions to sustainable development. Climate goals will be reached if they are prioritised and placed on a level their urgency requires. On each level, we must find more leaders.”"
   img: resources/img/speakers/laura_kolehmainen.jpg
 
 - name: Li Andersson
-  title: Title
-  description: "“Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum”"
+  title: Minister of Education
+  description:
   img: resources/img/speakers/li_andersson.jpg
 
 - name: Matti Rautkivi
-  title: Title
-  description: "“Ilmastotavoitteista tehdään totta tekemällä – eväät ovat olemassa.”"
+  title: Director, Wärtsilä
+  description: "“We already have the means to solve the Climate Crisis - we just have to start working”"
   img: resources/img/speakers/matti_rautkivi.jpg
 
 - name: Pasi Vainikka
-  title: Title
-  description: "“Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum”" 
+  title: CEO, Solar Foods Oy
+  description:
   img: resources/img/speakers/pasi_vainikka.jpg
 
 - name: Patrizio Laina
-  title: Title
-  description: "“Ilmastotavoitteesta tehdään totta uudenlaisen talousajattelun avulla ja valjastamalla koko yhteiskunta sotataloustyyliin sen päämäärän eteen.”"
+  title: Chief Economist, The Finnish Confederation of Professionals STTK
+  description: "“To reach the climate goals we need to change the way we think about the economy and adapt the whole society to the new objectives”"
   img: resources/img/speakers/patrizio_laina.jpg
 
 - name: Pekka Timonen
-  title: Title
-  description: "“Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum”" 
+  title: Mayor of Lahti
+  description:
   img: resources/img/speakers/pekka_timonen.jpg
