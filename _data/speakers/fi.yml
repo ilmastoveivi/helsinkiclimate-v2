@@ -1,60 +1,60 @@
 ---
 - name: Anni Sinnemäki
   title: Title
-  description: Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+  description: "“Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum”" 
   img: resources/img/speakers/anni_sinnemaki.jpg
 
 - name: Antero Vartia
   title: Title
-  description: Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+  description: "“Mikään ei oikeuta meitä lisäämään hiilidioksidin määrää ilmakehässä. Niin kauan kun vahinkoa aiheutetaan, vahingon aiheuttajan on kannettava vastuu vahingosta. Kun tämä otetaan kaikessa toiminnassa lähtökohdaksi, syntyy myös toimivia ratkaisuja.”" 
   img: resources/img/speakers/antero_vartia.jpeg
 
 - name: Jukka Ruusunen
   title: Title
-  description: Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+  description: "“Puhdistetaan sähköjärjestelmä ja käytetään puhdasta sähköä lämmityksen ja liikenteen puhdistamiseen.”" 
   img: resources/img/speakers/jukka_ruusunen.jpg
 
 - name: Katri Kulmuni
   title: Title
-  description: Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+  description: "“Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum”"
   img: resources/img/speakers/katri_kulmuni.jpg
 
 - name: Krista Huhtala-Jenks
   title: Title
-  description: Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+  description: "“Pääsemme ilmastotavoitteisiin, kun vihreistä vaihtoehdoista tulee muita houkuttelevimpia. Juuri sitä tavoittelemme MaaSin ja Whimin avulla: että palveluiden käyttö olisi omaa autoa parempi vaihtoehto.”"
   img: resources/img/speakers/krista_huhtala-jenks.jpg
 
 - name: Krista Mikkonen
   title: Title
-  description: Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+  description: "“Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum”"
   img: resources/img/speakers/krista_mikkonen.jpg
 
 - name: Li Andersson
   title: Title
-  description: Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+  description: "“Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum”"
   img: resources/img/speakers/li_andersson.jpg
 
 - name: Matti Rautkivi
   title: Title
-  description: Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+  description: "“Ilmastotavoitteista tehdään totta tekemällä – eväät ovat olemassa.”"
   img: resources/img/speakers/matti_rautkivi.jpg
 
 - name: Pasi Vainikka
   title: Title
-  description: Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+  description: "“Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum”" 
   img: resources/img/speakers/pasi_vainikka.jpg
 
 - name: Patrizio Laina
   title: Title
-  description: Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+  description: "“Ilmastotavoitteesta tehdään totta uudenlaisen talousajattelun avulla ja valjastamalla koko yhteiskunta sotataloustyyliin sen päämäärän eteen.”"
   img: resources/img/speakers/patrizio_laina.jpg
 
 - name: Pekka Timonen
   title: Title
-  description: Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+  description: "“Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum”" 
   img: resources/img/speakers/pekka_timonen.jpg
 
 - name: Teresa Ribera
   title: Title
-  description: Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+  description: "“It's important that tackling climate change is Finland's top priority for Europe during its EU presidency. We are playing with our common future, and we need everybody on board.”" 
   img: resources/img/speakers/teresa_ribera.jpg
