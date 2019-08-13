@@ -4,6 +4,8 @@ ref: info
 lang: fi
 
 apply-tickets: Hae lippuja
+event-date: 11. syyskuuta, 2019
+event-location: Bio Rex, Helsinki
 ---
 
 # INFO

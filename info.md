@@ -4,6 +4,8 @@ ref: info
 lang: en
 
 apply-tickets: Apply for tickets
+event-date: SEPTEMBER 11, 2019
+event-location: BIO REX, HELSINKI
 ---
 
 # INFO
