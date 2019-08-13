@@ -171,6 +171,10 @@ body {
 
 #lets {
   min-height: 6rem;
+  max-width: 1200px;
+  b {
+    font-weight: 600;
+  }
 }
 /* Italic text between the intro-lead-in */
 i {
@@ -454,8 +458,8 @@ blockquote {
 #intro .intro-text-header {
   font-family: "adobe-caslon-pro";
   font-style: italic;
-  font-size: 3rem;
-  line-height: 3rem;
+  font-size: 5rem;
+  line-height: 5rem;
 }
 #intro .intro-text {
   font-size: 1.5rem;
