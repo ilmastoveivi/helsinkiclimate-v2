@@ -3,32 +3,38 @@
   title: Deputy Mayor for Urban Environment
   description: 
   img: resources/img/speakers/anni_sinnemaki.jpg
+  order: 1
 
 - name: Antero Vartia
   title: Founder, Compensate Foundation
   description: "“There is nothing that would justify more carbon dioxide in the atmosphere. When harm is being done, the ones causing it should hold responsibility. When this becomes the basic principle, we will start finding solutions that work”" 
   img: resources/img/speakers/antero_vartia.jpg
+  order: 8
 
 - name: Jukka Ruusunen
   title: CEO, Fingrid
   description: "“Puhdistetaan sähköjärjestelmä ja käytetään puhdasta sähköä lämmityksen ja liikenteen puhdistamiseen.”" 
   img: resources/img/speakers/jukka_ruusunen.jpg
+  order: 3
 
 - name: Teresa Ribera
   title: Minister for the Ecological Transition of Spain
   description: "“It's important that tackling climate change is Finland's top priority for Europe during its EU presidency. We are playing with our common future, and we need everybody on board.”" 
   img: resources/img/speakers/teresa_ribera.jpg
+  order: 2
 
 - name: Julia Barbasiewicz & Antoni Wiśniewski-Mischal
   title: Students
   description:
   img: resources/img/speakers/julia_barbasiewicz_and_antoni_wissniewski-mischal.jpg
+  order: 4
 
 
 - name: Katri Kulmuni
   title: Minister of Economic affairs
   description:
   img: resources/img/speakers/katri_kulmuni.jpg
+  order: 9
 
 - name: Krista Huhtala-Jenks
   title: Head of Ecosystem & Sustainability, MaaS Global
@@ -39,16 +45,19 @@
   title: Minister of the Environment and Climate  Change
   description:
   img: resources/img/speakers/krista_mikkonen.jpg
+  order: 7
 
 - name: Laura Kolehmainen
   title: Founder, Ilmastoveivi2019 climate campaign
   description: "“We all have to give our everything in order to stop our society, our economy and our lifestyle from revolving around unsustainable, self-destructive principles. Bravely and leaning forward. Money must be redirected from unsustainable actions to sustainable development. Climate goals will be reached if they are prioritised and placed on a level their urgency requires. On each level, we must find more leaders.”"
   img: resources/img/speakers/laura_kolehmainen.jpg
+  order: 5
 
 - name: Li Andersson
   title: Minister of Education
   description:
   img: resources/img/speakers/li_andersson.jpg
+  order: 6
 
 - name: Matti Rautkivi
   title: Director, Wärtsilä

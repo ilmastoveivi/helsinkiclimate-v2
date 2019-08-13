@@ -15,8 +15,9 @@
             </div>
         </div>
         <div id="front-page-speaker-grid" class="row justify-content-center text-center">
-            {% for i in (1..9) %}
-              {% assign speaker = site.data.speakers[page.lang][i] %}
+            {% assign speakers = site.data.speakers[page.lang] | sort:"order" %}
+            {% for i in (0..8) %}
+                {% assign speaker = speakers[i] %}
                 {% include speakers/speaker_small.html name=speaker.name title=speaker.title description=speaker.description img=speaker.img %}
             {% endfor %}
         </div>
