@@ -190,7 +190,7 @@ h1 {
   line-height: 1.5;
 }
 h2 {
-  margin-bottom: 0.75rem;
+  margin-bottom: 1.5rem;
 }
 
 .event-date {
@@ -441,6 +441,10 @@ blockquote {
   background-size: 40%;
 }
 
+#intro {
+  padding-bottom: 4rem;
+}
+
 #intro .intro-text-header {
   font-family: "adobe-caslon-pro";
   font-style: italic;
@@ -481,9 +485,18 @@ blockquote {
 #are-you-with-us {
   padding-top: 6rem;
 }
+
+#are-you-with-us-text {
+  margin-bottom: 1.5rem;
+}
+
 .top-earth-blue {
   background-color: $light-blue-color;
   background-image: url('../resources/img/top_earth_blue.png');
+}
+
+#front-page-speaker-grid {
+  padding-top: 6rem;
 }
 
 //talk show
@@ -536,6 +549,11 @@ blockquote {
   color: $text-color;
 }
 @media screen and (max-width: 991px) {
+  
+  #intro {
+    padding-bottom: 1.5rem;
+  }
+  
   .content-container {
     padding-left: 3.25rem;
     padding-right: 3.5rem;
