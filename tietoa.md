@@ -14,7 +14,7 @@ Ota yhteyttä: info@helsinkiclimate.org
 
 Median yhteydenotot: 040 748 0000
 
-Seuraa LISÄÄ TWITTER
+Seuraa: <a href="https://twitter.com/helsinkiclimate" class="fa fa-twitter"></a>
 
 ## Tiedotteet
 

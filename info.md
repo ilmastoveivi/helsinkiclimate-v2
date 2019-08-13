@@ -14,7 +14,7 @@ Contact us: info@helsinkiclimate.org
 
 Media contacts: 040 748 0000
 
-Seuraa ADD TWITTER
+Follow us: <a href="https://twitter.com/helsinkiclimate" class="fa fa-twitter"></a>
 
 ## Press releases
 
