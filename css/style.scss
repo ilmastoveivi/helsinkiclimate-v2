@@ -183,12 +183,12 @@ i {
   text-transform: lowercase;
 }
 
-a {
+#about a {
   color: $text-color;
   text-decoration: underline;
 }
 
-body .fa, .fab {
+body #about .fa, .fab {
   text-decoration: none;
 }
 
