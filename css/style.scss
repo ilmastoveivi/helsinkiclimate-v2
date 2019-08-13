@@ -169,6 +169,9 @@ body {
 }
 //*************** End Animation Navbar *******************
 
+#lets {
+  min-height: 6rem;
+}
 /* Italic text between the intro-lead-in */
 i {
   font-family: $secondary-font;
@@ -546,10 +549,10 @@ blockquote {
   }
 
   .navbar-collapse.collapse.show {
-    height: 75vh;
+    height: 100vh;
   }
   .navbar-nav {
-    height: 25vh;
+    height: auto;
   }
   .earth-side {
     display: none;
@@ -559,7 +562,10 @@ blockquote {
     justify-content: center;
   }
   #lang-bar {
-    margin: 0rem;
+    justify-content: center;
+    flex-direction: row;
+    margin-left: auto!important;
+    margin-right:  auto!important;
     .lang-bar-item:last-child {
       margin-right: 0rem;
     }
@@ -601,11 +607,6 @@ blockquote {
     padding-top: 10vh;
   }
 
-  #lang-bar {
-    margin-left: auto!important;
-    margin-right:  auto!important;
-  }
-
   .speaker-element {
     display: block;
     align-items: center;
@@ -621,9 +622,15 @@ blockquote {
   }
 
   .lang-item + .lang-item {
-    padding-left: 0rem;
+    padding-left: 1rem;
+  }
+  .organisers-bottom > div{
+   padding-bottom:1rem;
   }
 
+  .organisers-bottom-partners > div{
+    padding-bottom:1rem;
+   }
   /* Show the tooltip text when you mouse over the tooltip container */
   .speaker-element:hover .tooltiptext {
     visibility: visible;
