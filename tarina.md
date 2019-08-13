@@ -20,6 +20,8 @@ Keväällä Suomen hallitusohjelman kirjattiin historiallinen ja kunnianhimoinen
 
 On kohtuullista sanoa, että ilmastonmuutoksen vakavuus on huomattu. Emme tahdo enää olla osa ongelmaa.
 
+<blockquote> On kohtuullista sanoa, että ilmastonmuutoksen vakavuus on huomattu. Emme tahdo enää olla osa ongelmaa. </blockquote>
+
 Sitten on toinen, vaikeampi tarina. 	
 
 Sen myöntäminen, kuinka *merkittäviä* toimia tarvitaan. Sen ääneen sanominen, kuinka nopeasti niitä tarvitaan. 

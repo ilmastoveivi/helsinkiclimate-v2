@@ -8,13 +8,13 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-$accent-color: black;
+$accent-color: #3d400f; //Same as text color
 $primary-color: white;
 $secondary-color: #ffbd00;
 $yellowish-color: #edff40;
 $light-blue-color: #dee3ff;
 $dark-gray-color :#1b1d09;
-$text-color :#3d400f;
+$text-color: #3d400f;
 $body-font: "titling-gothic-fb";
 $secondary-font: "adobe-caslon-pro";
 $gothic-medium: 500;
@@ -130,11 +130,11 @@ body {
   border-radius: 1px;
   margin: 4px 0 4px 0;
   transition: all 0.2s;
-  color:black;
+  color: $text-color;
 }
 
 .icon-bar {
-  background: black;
+  background: $text-color;
 }
 
 .navbar-toggler .icon-bar:nth-of-type(1) {
@@ -222,7 +222,7 @@ h2 {
 
 
 blockquote {
-  border-left: black;
+  border-left: $text-color;
   border-left-style: solid;
   margin-left: -2rem;
   padding-left: 2rem;
