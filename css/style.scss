@@ -441,7 +441,7 @@ blockquote {
   font-family: "adobe-caslon-pro";
   font-style: italic;
   font-size: 3rem;
-  margin-bottom: -15px;
+  line-height: 3rem;
 }
 #intro .intro-text {
   font-size: 1.5rem;
@@ -449,6 +449,7 @@ blockquote {
 
 .intro-text > p {
  margin-bottom: 0.1rem;
+ line-height: 2.5rem;
 }
 .top-earth-bg {
   background-position: center bottom;
@@ -528,6 +529,9 @@ blockquote {
   background-image: url('../resources/img/top_earth_yellow.png');
 }
 
+.fa-twitter{
+  color: black;
+}
 @media screen and (max-width: 991px) {
   .content-container {
     padding-left: 3.25rem;
@@ -535,10 +539,10 @@ blockquote {
   }
 
   .navbar-collapse.collapse.show {
-    height: 100vh;
+    height: 75vh;
   }
   .navbar-nav {
-    height: 30vh;
+    height: 25vh;
   }
   .earth-side {
     display: none;
