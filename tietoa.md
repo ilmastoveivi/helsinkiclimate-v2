@@ -26,4 +26,4 @@ Helsinki Climate kokoaa yhteen hiilineutraalin tulevaisuuden tekijät Bio Rexiin
 
 Tapahtuman live-lähetyksestä lisää tietoa täällä (LINKKI)
 
-Lippuja paikan päälle voi hakea täältä (LINKKI). Paikkoja on rajoitetusti.
+Lippuja paikan päälle voi hakea [täältä](https://forms.gle/WSNVKP1KUHJLw6U4A "täältä"). Paikkoja on rajoitetusti.
