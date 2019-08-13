@@ -26,6 +26,6 @@ speakers: Speakers
 stay-tuned: STAY TUNED!
 supported-by: SUPPORTED BY
 
-speakers_link: "/speakers"
-about_link: "/story"
+speakers_link: "/speakers.html"
+about_link: "/story.html"
 ---

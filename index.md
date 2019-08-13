@@ -28,6 +28,6 @@ stay-tuned: PYSY KUULOLLA!
 supported-by: TUKIJAT
 
 
-speakers_link: "/keskustelijat"
-about_link: "/tarina"
+speakers_link: "/keskustelijat.html"
+about_link: "/tarina.html"
 ---
