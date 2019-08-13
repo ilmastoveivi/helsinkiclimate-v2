@@ -40,6 +40,7 @@
   title: Head of Ecosystem & Sustainability, MaaS Global
   description: "“We can hit the goals by making the green options the most convenient ones. With MaaS and our Whim service that's exactly what we are aiming to do – offering a MaaS service that is better than owning your own car.”"
   img: resources/img/speakers/krista_huhtala-jenks.jpg
+  order: 10
 
 - name: Krista Mikkonen
   title: Minister of the Environment and Climate  Change
@@ -63,18 +64,22 @@
   title: Director, Wärtsilä
   description: "“We already have the means to solve the Climate Crisis - we just have to start working”"
   img: resources/img/speakers/matti_rautkivi.jpg
+  order: 11
 
 - name: Pasi Vainikka
   title: CEO, Solar Foods Oy
   description:
   img: resources/img/speakers/pasi_vainikka.jpg
+  order: 12
 
 - name: Patrizio Laina
   title: Chief Economist, The Finnish Confederation of Professionals STTK
   description: "“To reach the climate goals we need to change the way we think about the economy and adapt the whole society to the new objectives”"
   img: resources/img/speakers/patrizio_laina.jpg
+  order: 13
 
 - name: Pekka Timonen
   title: Mayor of Lahti
   description:
   img: resources/img/speakers/pekka_timonen.jpg
+  order: 14
