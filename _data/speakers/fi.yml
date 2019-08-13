@@ -7,12 +7,18 @@
 - name: Antero Vartia
   title: Title
   description: "“Mikään ei oikeuta meitä lisäämään hiilidioksidin määrää ilmakehässä. Niin kauan kun vahinkoa aiheutetaan, vahingon aiheuttajan on kannettava vastuu vahingosta. Kun tämä otetaan kaikessa toiminnassa lähtökohdaksi, syntyy myös toimivia ratkaisuja.”" 
-  img: resources/img/speakers/antero_vartia.jpeg
+  img: resources/img/speakers/antero_vartia.jpg
 
 - name: Jukka Ruusunen
   title: Title
   description: "“Puhdistetaan sähköjärjestelmä ja käytetään puhdasta sähköä lämmityksen ja liikenteen puhdistamiseen.”" 
   img: resources/img/speakers/jukka_ruusunen.jpg
+
+- name: Julia Barbasiewicz ja Antoni Wiśniewski-Mischal
+  title: Title
+  description: "Lorem ipsum description text" 
+  img: resources/img/speakers/julia_barbasiewicz_and_antoni_wissniewski-mischal.jpg
+
 
 - name: Katri Kulmuni
   title: Title
@@ -28,6 +34,12 @@
   title: Title
   description: "“Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum”"
   img: resources/img/speakers/krista_mikkonen.jpg
+
+- name: Laura Kolehmainen
+  title: Title
+  description: "“Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum”"
+  img: resources/img/speakers/laura_kolehmainen.jpg
+
 
 - name: Li Andersson
   title: Title

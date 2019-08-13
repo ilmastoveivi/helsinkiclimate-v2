@@ -6,13 +6,19 @@
 
 - name: Antero Vartia
   title: Title
-  description: "“There is nothing that would justify more carbon dioxide in the atmosphere. When harm is being done, the ones causing it should hold responsibility. When this becomes the basic principle, we will start finding solutions that work.”"
-  img: resources/img/speakers/antero_vartia.jpeg
+  description: "“Mikään ei oikeuta meitä lisäämään hiilidioksidin määrää ilmakehässä. Niin kauan kun vahinkoa aiheutetaan, vahingon aiheuttajan on kannettava vastuu vahingosta. Kun tämä otetaan kaikessa toiminnassa lähtökohdaksi, syntyy myös toimivia ratkaisuja.”" 
+  img: resources/img/speakers/antero_vartia.jpg
 
 - name: Jukka Ruusunen
   title: Title
-  description: "“Let’s clean the grid and use clean electricity for heating and transport.”"
+  description: "“Puhdistetaan sähköjärjestelmä ja käytetään puhdasta sähköä lämmityksen ja liikenteen puhdistamiseen.”" 
   img: resources/img/speakers/jukka_ruusunen.jpg
+
+- name: Julia Barbasiewicz and Antoni Wiśniewski-Mischal
+  title: Title
+  description: "Lorem ipsum description text" 
+  img: resources/img/speakers/julia_barbasiewicz_and_antoni_wissniewski-mischal.jpg
+
 
 - name: Katri Kulmuni
   title: Title
@@ -21,13 +27,18 @@
 
 - name: Krista Huhtala-Jenks
   title: Title
-  description: "“Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum”"
+  description: "“Pääsemme ilmastotavoitteisiin, kun vihreistä vaihtoehdoista tulee muita houkuttelevimpia. Juuri sitä tavoittelemme MaaSin ja Whimin avulla: että palveluiden käyttö olisi omaa autoa parempi vaihtoehto.”"
   img: resources/img/speakers/krista_huhtala-jenks.jpg
 
 - name: Krista Mikkonen
   title: Title
-  description: "“We can hit the goals by making the green options the most convenient ones. With MaaS and our Whim service that's exactly what we are aiming to do – offering a MaaS service that is better than owning your own car.”"
+  description: "“Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum”"
   img: resources/img/speakers/krista_mikkonen.jpg
+
+- name: Laura Kolehmainen
+  title: Title
+  description: "“Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum”"
+  img: resources/img/speakers/laura_kolehmainen.jpg
 
 - name: Li Andersson
   title: Title
@@ -36,25 +47,25 @@
 
 - name: Matti Rautkivi
   title: Title
-  description: "“We already have the means to solve the Climate Crisis - we just have to start working.”"
+  description: "“Ilmastotavoitteista tehdään totta tekemällä – eväät ovat olemassa.”"
   img: resources/img/speakers/matti_rautkivi.jpg
 
 - name: Pasi Vainikka
   title: Title
-  description: "“Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum”"
+  description: "“Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum”" 
   img: resources/img/speakers/pasi_vainikka.jpg
 
 - name: Patrizio Laina
   title: Title
-  description: "“To reach the climate goals we need to change the way we think about the economy and adapt the whole society to the new objectives.”"
+  description: "“Ilmastotavoitteesta tehdään totta uudenlaisen talousajattelun avulla ja valjastamalla koko yhteiskunta sotataloustyyliin sen päämäärän eteen.”"
   img: resources/img/speakers/patrizio_laina.jpg
 
 - name: Pekka Timonen
   title: Title
-  description: "“Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum”"
+  description: "“Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum”" 
   img: resources/img/speakers/pekka_timonen.jpg
 
 - name: Teresa Ribera
   title: Title
-  description: "“It's important that tackling climate change is Finland's top priority for Europe during its EU presidency. We are playing with our common future, and we need everybody on board.”"
+  description: "“It's important that tackling climate change is Finland's top priority for Europe during its EU presidency. We are playing with our common future, and we need everybody on board.”" 
   img: resources/img/speakers/teresa_ribera.jpg
