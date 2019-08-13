@@ -539,8 +539,13 @@ blockquote {
   }
 }
 
+#speaker-container {
+  display: flex;
+}
+
 .speaker-description {
-  font-size: 1.25rem
+  font-size: 1.25rem;
+  max-width: 400px;
 }
 
 #speakers-footer {
@@ -554,6 +559,13 @@ blockquote {
 .fa-twitter{
   color: $text-color;
 }
+
+@media screen and (max-width: 1200px) {
+  #speaker-container{
+    justify-content: center;
+  }
+}
+
 @media screen and (max-width: 991px) {
   
   #intro {

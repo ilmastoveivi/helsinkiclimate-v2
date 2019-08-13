@@ -4,19 +4,19 @@
   <div id="speakers" class="background-whole-world">
     <div class="text-center text-lg-left">
       <div class="row justify-content-center pt-5">
-        <div class="col-xl-7">
+        <div class="col-md-7 col-sm-10">
           <h1> {{ page.speakers }}</h1>
         </div>
       </div>
       <div class="row justify-content-center">
-        <div class="col-xl-7">
+        <div class="col-md-7 col-sm-10">
           <h2>{{ page.speakers-subtitle }}</h2>
         </div>
       </div>
     </div>
     <section id="speakers-grid">
       <div class="content-container">
-          <div class="row justify-content-center mt-4">
+          <div id="speaker-container" class="row mt-4">
             {% for person in site.data.speakers[page.lang] %}
               {% include speakers/speaker_grid.html name=person.name title=person.title description=person.description img=person.img %}
             {% endfor %}
