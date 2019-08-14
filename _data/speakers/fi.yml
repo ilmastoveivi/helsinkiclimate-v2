@@ -3,25 +3,25 @@
   title: Kaupunkiympäristön apulaispormestari
   description: 
   img: resources/img/speakers/anni_sinnemaki.jpg
-  order: 1
+  order: 11
 
 - name: Antero Vartia
   title: Compensate-säätiön perustaja
   description: "“Mikään ei oikeuta meitä lisäämään hiilidioksidin määrää ilmakehässä. Niin kauan kun vahinkoa aiheutetaan, vahingon aiheuttajan on kannettava vastuu vahingosta. Kun tämä otetaan kaikessa toiminnassa lähtökohdaksi, syntyy myös toimivia ratkaisuja.”" 
   img: resources/img/speakers/antero_vartia.jpg
-  order: 8
+  order: 16
 
 - name: Jukka Ruusunen
   title: Toimitusjohtaja, Fingrid
   description: "“Puhdistetaan sähköjärjestelmä ja käytetään puhdasta sähköä lämmityksen ja liikenteen puhdistamiseen.”" 
   img: resources/img/speakers/jukka_ruusunen.jpg
-  order: 3
+  order: 13
 
 - name: Teresa Ribera
   title: Minister for the Ecological Transition of Spain
   description: "“On todella tärkeää, että ilmastonmuutoksen torjuminen on Suomen EU-puheenjohtajuuskauden kärkitavoite. Kyse on yhteisestä tulevaisuudestamme ja tarvitsemme kaikki mukaan.”" 
   img: resources/img/speakers/teresa_ribera.jpg
-  order: 2
+  order: 6
 
 - name: Julia Barbasiewicz & Antoni Wiśniewski-Mischal
   title: Opiskelijoita
@@ -34,7 +34,7 @@
   title: Elinkeinoministeri
   description:
   img: resources/img/speakers/katri_kulmuni.jpg
-  order: 9
+  order: 7
 
 - name: Krista Huhtala-Jenks
   title: Head of Ecosystem & Sustainability, MaaS Global
@@ -46,26 +46,26 @@
   title: Ympäristö- ja ilmastoministeri
   description:
   img: resources/img/speakers/krista_mikkonen.jpg
-  order: 7
+  order: 9
 
 - name: Laura Kolehmainen
   title: Perustaja, Ilmastoveivi2019-kampanja
   description: "“Meidän on tehtävä kaikkemme, jotta yhteiskuntamme, taloutemme ja elämäntapamme lakkaavat pyörimästä kestämättömin, itsensä tuhoavin periaattein. Rohkeasti ja etunojassa. Raha on tuotava pois kestämättömästä toiminnasta kestävään kehittämiseen. Ilmastotavoitteet saavutetaan, jos ne priorisoidaan niiden ansaitsemalle kiireellisyyden tasolle. Joka tasolla pitää löytyä lisää johtajia.”"
   img: resources/img/speakers/laura_kolehmainen.jpg
-  order: 5
+  order: 15
 
 
 - name: Li Andersson
   title: Opetusministeri
   description:
   img: resources/img/speakers/li_andersson.jpg
-  order: 6
+  order: 2
 
 - name: Matti Rautkivi
   title: Johtaja, Wärtsilä
   description: "“Ilmastotavoitteista tehdään totta tekemällä – eväät ovat olemassa.”"
   img: resources/img/speakers/matti_rautkivi.jpg
-  order: 11
+  order: 1
 
 - name: Pasi Vainikka
   title: Toimitusjohtaja, Solar Foods Oy
@@ -77,10 +77,22 @@
   title: Pääekonomisti, STTK
   description: "“Ilmastotavoitteesta tehdään totta uudenlaisen talousajattelun avulla ja valjastamalla koko yhteiskunta sotataloustyyliin sen päämäärän eteen.”"
   img: resources/img/speakers/patrizio_laina.jpg
-  order: 13
+  order: 3
 
 - name: Pekka Timonen
   title: Lahden kaupunginjohtaja
   description:
   img: resources/img/speakers/pekka_timonen.jpg
   order: 14
+
+- name: Aki Kangasharju
+  title: Toimitusjohtaja, ETLA
+  description: 
+  img: resources/img/speakers/aki_kangasharju.jpg
+  order: 8
+
+- name: Markku Ollikainen
+  title: Puheenjohtaja, Ilmastopaneeli
+  description: 
+  img: resources/img/speakers/markku_ollikainen.jpg
+  order: 5
