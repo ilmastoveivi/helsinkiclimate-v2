@@ -124,50 +124,10 @@ body {
 #apply-tickets  .small-font{
   font-size: 0.75rem;
 }
-
-//*************** Animation Navbar *******************
-.navbar-toggler .icon-bar {
-  display: block;
-  width: 22px;
-  height: 2px;
-  border-radius: 1px;
-  margin: 4px 0 4px 0;
-  transition: all 0.2s;
-  color: $text-color;
+button[aria-expanded=true] > span{
+  background-image: url('../resources/img/hc-rasti.png')!important;
 }
 
-.icon-bar {
-  background: $text-color;
-}
-
-.navbar-toggler .icon-bar:nth-of-type(1) {
-  transform: rotate(45deg);
-  transform-origin: 10% 10%;
-}
-
-.navbar-toggler .icon-bar:nth-of-type(2) {
-  opacity: 0;
-  filter: alpha(opacity=0);
-}
-
-.navbar-toggler .icon-bar:nth-of-type(3) {
-  transform: rotate(-45deg);
-  transform-origin: 10% 90%;
-}
-
-.navbar-toggler.collapsed .icon-bar:nth-of-type(1) {
-  transform: rotate(0);
-}
-
-.navbar-toggler.collapsed .icon-bar:nth-of-type(2) {
-  opacity: 1;
-  filter: alpha(opacity=100);
-}
-
-.navbar-toggler.collapsed .icon-bar:nth-of-type(3) {
-  transform: rotate(0);
-}
-//*************** End Animation Navbar *******************
 
 #lets {
   min-height: 6rem;
