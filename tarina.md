@@ -46,13 +46,13 @@ Tule Helsinki Climateen osoittamaan, että hiilineutraali tulevaisuus tehdään 
 
 *Ilmastotekojen puolesta,*
 
+Helsinki Climate -järjestäjät:
 **Demos Helsinki**  
 **Greenpeace Suomi**  
-**Ilmastoveivi2019-kampanja**  
-**Sitra**  
-**Smart&Clean Säätiö**  
+**Ilmastoveivi2019-kampanja**
+Helsinki Climate -tukijat ja kumppanit:
 **Helsingin kaupunki**  
+**Sitra**  
+**Smart & Clean säätiö**
+**Jenny ja Antti Wihurin rahasto**
 **Gofore**  
-
-
-

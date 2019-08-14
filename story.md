@@ -47,10 +47,13 @@ Come to Helsinki Climate to show that a carbon neutral future is made together, 
 
 *For climate action,*
 
+Helsinki Climate organizers: 
 **Demos Helsinki**  
-**Greenpeace Suomi**  
-**Ilmastoveivi2019-kampanja**  
+**Greenpeace Finland**  
+**Ilmastoveivi2019-campaign**
+Helsinki Climate supporters and partners: 
+**City of Helsinki**  
 **Sitra**  
-**Smart&Clean Säätiö**  
-**Helsingin kaupunki**  
-**Gofore**  
+**Smart & Clean Foundation**  
+**Jenny and Antti Wihuri Foundation**
+**Gofore**
