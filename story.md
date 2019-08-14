@@ -20,7 +20,7 @@ This spring, a historic and ambitious goal was stated in the programme of the Fi
 
 It is reasonable to say that the seriousness of climate change has been noticed. We no longer want to be part of the problem.
 
-<blockquote> It is reasonable to say that the seriousness of climate change has been noticed. We no longer want to be part of the problem. </blockquote>
+<blockquote> The world now craves for examples of how carbon neutral societies can be built. </blockquote>
 
 Then for another, more difficult story.	
 
