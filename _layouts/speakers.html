@@ -17,7 +17,8 @@
     <section id="speakers-grid">
       <div class="content-container">
           <div id="speaker-container" class="row mt-4">
-            {% for person in site.data.speakers[page.lang] %}
+              {% assign speakers = site.data.speakers[page.lang] | sort:"order" %}
+              {% for person in speakers %}
               {% include speakers/speaker_grid.html name=person.name title=person.title description=person.description img=person.img %}
             {% endfor %}
           </div>

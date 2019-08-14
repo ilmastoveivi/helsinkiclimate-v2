@@ -15,7 +15,7 @@
   title: Toimitusjohtaja, Fingrid
   description: "“Puhdistetaan sähköjärjestelmä ja käytetään puhdasta sähköä lämmityksen ja liikenteen puhdistamiseen.”" 
   img: resources/img/speakers/jukka_ruusunen.jpg
-  order: 13
+  order: 19
 
 - name: Teresa Ribera
   title: Minister for the Ecological Transition of Spain
@@ -113,11 +113,10 @@
   title: Johtaja, hiilineutraali kiertotalous, Sitra
   description: 
   img: resources/img/speakers/mari_pantsar.jpg
-  order: 19
+  order: 13
 
 - name: Saara Tamminen
   title: Johtava asiantuntija, ilmastoratkaisut, Sitra
   description: 
   img: resources/img/speakers/saara_tamminen.jpg
   order: 20
-  
