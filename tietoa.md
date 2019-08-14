@@ -12,6 +12,8 @@ event-location: Bio Rex, Helsinki
 
 ## Yhteystiedot
 
+Ota yhteyttä: info@helsinkiclimate.org
+
 Median yhteydenotot: riku.mattila@demoshelsinki.fi
 
 Twitter: @helsinkiclimate <a href="https://twitter.com/helsinkiclimate" class="fa fa-twitter"></a>
@@ -20,7 +22,7 @@ Facebook-tapahtuma: <a href="https://www.facebook.com/events/2543128852443328/" 
 
 ## Osallistuminen 
 
-Helsinki Climate kokoaa yhteen hiilineutraalin tulevaisuuden tekijät Bio Rexiin, Helsingin Lasipalatsiin 11.9.2019. Tapahtumaan voi osallistua kuka tahansa seuraamalla tapahtumaa livenä. Lisäksi paikan päälle on jaossa rajallinen määrä lippuja. Meiltä kaikilta vaaditaan nyt parhaat ideat päästöttömän yhteiskunnan toteuttamiseen. Siksi Helsinki Climate on avoin kaikille varallisuudesta, koulutuksesta, iästä tai muusta seikasta huolimatta. 
+Helsinki Climate kokoaa yhteen hiilineutraalin tulevaisuuden tekijät Bio Rexiin, Helsingin Lasipalatsiin 11.9.2019 klo 15–18. Tapahtumaan voi osallistua kuka tahansa seuraamalla tapahtumaa livenä. Lisäksi paikan päälle on jaossa rajallinen määrä lippuja. Meiltä kaikilta vaaditaan nyt parhaat ideat päästöttömän yhteiskunnan toteuttamiseen. Siksi Helsinki Climate on avoin kaikille varallisuudesta, koulutuksesta, iästä tai muusta seikasta huolimatta. 
 
 Tapahtuman live-lähetyksestä saat kätevimmin tietoa seuraamalla tapahtumaa [Facebookissa](https://www.facebook.com/events/2543128852443328/ "Facebookissa") ja [Twitterissä](https://twitter.com/helsinkiclimate "Twitterissä"). 
 
