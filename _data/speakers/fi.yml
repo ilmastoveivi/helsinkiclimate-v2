@@ -96,3 +96,28 @@
   description: 
   img: resources/img/speakers/markku_ollikainen.jpg
   order: 5
+
+- name: Tuuli Kaskinen
+  title: Konsultatiivisen liiketoiminnan johtaja, Demos Helsinki (juontaja)
+  description: 
+  img: resources/img/speakers/tuuli_kaskinen.jpg
+  order: 17
+
+- name: Atte Ahokas
+  title: Aktivisti, Fridays for Future 
+  description: "“Nuorten tehtävä ei ole tietää, miten ilmastonmuutos ratkaistaan. Me olemme täällä kertomassa, että se on pakko ratkaista.”"
+  img: resources/img/speakers/atte_ahokas.jpg
+  order: 18
+  
+- name: Mari Pantsar
+  title: Johtaja, hiilineutraali kiertotalous, Sitra
+  description: 
+  img: resources/img/speakers/mari_pantsar.jpg
+  order: 19
+
+- name: Saara Tamminen
+  title: Johtava asiantuntija, ilmastoratkaisut, Sitra
+  description: 
+  img: resources/img/speakers/saara_tamminen.jpg
+  order: 20
+  

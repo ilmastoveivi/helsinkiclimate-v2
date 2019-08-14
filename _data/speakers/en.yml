@@ -95,3 +95,28 @@
   description: 
   img: resources/img/speakers/markku_ollikainen.jpg
   order: 5
+
+- name: Tuuli Kaskinen
+  title: Director for Consultancy Operations, Demos Helsinki (host)
+  description: 
+  img: resources/img/speakers/tuuli_kaskinen.jpg
+  order: 17
+
+- name: Atte Ahokas
+  title: Activist, Fridays for Future
+  description: "“It is not the job of young people to know how to solve the problem of climate change. It is to tell you that it must be solved.”"
+  img: resources/img/speakers/atte_ahokas.jpg
+  order: 18
+  
+- name: Mari Pantsar
+  title: Director, Carbon-neutral Circular Economy, Sitra
+  description: 
+  img: resources/img/speakers/mari_pantsar.jpg
+  order: 19
+
+- name: Saara Tamminen
+  title: Leading Specialist, Climate Solutions, Sitra
+  description: 
+  img: resources/img/speakers/saara_tamminen.jpg
+  order: 20
+  
