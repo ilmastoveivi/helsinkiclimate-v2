@@ -16,7 +16,7 @@ Young people around the world have organised strikes and marched for more powerf
 
 And what else?
 
-This spring, a historic and ambitious goal was stated in the programme of the Finnish government: ‘Carbon Neutral Finland 2035.’ During its presidency of the Council of the European Union, Finland set the target on stopping/fighting climate change. The time for “Yes, but” politics in Europe is over. 
+This spring, a historic and ambitious goal was stated in the programme of the Finnish government: ‘Carbon Neutral Finland 2035.’ During its presidency of the Council of the European Union, Finland set the target on fighting climate change. The time for “Yes, but” politics in Europe is over. 
 
 It is reasonable to say that the seriousness of climate change has been noticed. We no longer want to be part of the problem.
 
