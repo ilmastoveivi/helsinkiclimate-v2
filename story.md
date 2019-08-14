@@ -57,4 +57,6 @@ Helsinki Climate supporters and partners:
 **Sitra**  
 **Smart & Clean Foundation**  
 **Jenny and Antti Wihuri Foundation**  
-**Gofore**
+**Gofore**  
+**Maj and Tor Nessling Foundation**
+
