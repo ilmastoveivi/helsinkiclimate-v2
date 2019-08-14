@@ -1,13 +1,21 @@
 <div id="organisers">
     <div class="organisers-bottom row">
         <div class="col-md-3 col-sm-6 ">
-            <a href="https://www.ilmastoveivi2019.fi/">
-            <img src="/resources/img/logos/ilmastoveivi.png" id="ilmastoveivi" class="img-responsive img-centered"
+            {% if page.lang == "fi" %}
+                <a href="https://www.ilmastoveivi2019.fi/">
+            {% elsif page.lang == "en" %}
+                <a href="https://www.ilmastoveivi2019.fi/en.html">
+            {% endif %}
+                    <img src="/resources/img/logos/ilmastoveivi.png" id="ilmastoveivi" class="img-responsive img-centered"
                 alt="">
             </a>
         </div>
         <div class="col-md-4 col-sm-6">
+            {% if page.lang == "fi" %}
+                <a href="https://www.demoshelsinki.fi/">
+            {% elsif page.lang == "en" %}
                 <a href="https://www.demoshelsinki.fi/en/">
+            {% endif %}
                     <img src="/resources/img/logos/demoshelsinki.png" id="demoshelsinki" class="img-responsive img-centered"
                 alt="">
             </a>
@@ -29,31 +37,51 @@
     </div>
     <div class="organisers-bottom-partners row">
         <div class="col-md-4 col-sm-6 ">
-            <a href="https://wihurinrahasto.fi/">
-                <img src="/resources/img/logos/jawr-logo.png" id="jawr" class="img-responsive img-centered" alt="">
+            {% if page.lang == "fi" %}
+                <a href="https://wihurinrahasto.fi/">
+            {% elsif page.lang == "en" %}
+                <a href="https://wihurinrahasto.fi/?lang=en">
+            {% endif %}
+                    <img src="/resources/img/logos/jawr-logo.png" id="jawr" class="img-responsive img-centered" alt="">
             </a>
         </div>
         <div class="col-md-4 col-sm-6">
-            <a href="https://www.sitra.fi/">
-                <img src="/resources/img/logos/sitra.png" id="sitra" class="img-responsive img-centered" alt="" />
+            {% if page.lang == "fi" %}
+                <a href="https://www.sitra.fi/">
+            {% elsif page.lang == "en" %}
+                <a href="https://www.sitra.fi/en/">
+            {% endif %}
+                    <img src="/resources/img/logos/sitra.png" id="sitra" class="img-responsive img-centered" alt="" />
             </a>
         </div>
         <div class="col-md-4 col-sm-6">
-            <a href="http://smartclean.fi">
-                <img src="/resources/img/logos/smartclean.png" id="smartclean" class="img-responsive img-centered"
+            {% if page.lang == "fi" %}
+                <a href="http://smartclean.fi">
+            {% elsif page.lang == "en" %}
+                <a href="http://smartclean.fi/en/">
+            {% endif %}
+                    <img src="/resources/img/logos/smartclean.png" id="smartclean" class="img-responsive img-centered"
                     alt="" />
             </a>
         </div>
         <div class="col-md-4 col-sm-6">
-            <a href="https://gofore.com">
-                <img src="/resources/img/logos/gofore_logo_white.png" id="gofore" class="img-responsive img-centered"
+            {% if page.lang == "fi" %}
+                <a href="http://gofore.com">
+            {% elsif page.lang == "en" %}
+                <a href="https://gofore.com/en/home/">
+            {% endif %}
+                    <img src="/resources/img/logos/gofore_logo_white.png" id="gofore" class="img-responsive img-centered"
                     alt="" />
             </a>
         </div>
         <div class="col-md-4 col-sm-6">
-            <a href="https://www.hel.fi/">
-                <img src="/resources/img/logos/helsinki_kaupunki.png" id="helsinki" class="img-responsive img-centered"
-                    alt=""/>
+            {% if page.lang == "fi" %}
+                <a href="https://www.hel.fi/">             
+            {% elsif page.lang == "en" %}
+                <a href="https://www.hel.fi/helsinki/en">
+                {% endif %}
+                    <img src="/resources/img/logos/helsinki_kaupunki.png" id="helsinki" class="img-responsive img-centered"
+                alt=""/>
             </a>
         </div>
     </div>
