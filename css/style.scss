@@ -96,6 +96,22 @@ body {
   margin-top: 0.5rem;
 }
 
+.navbar-nav {
+  display: flex;
+  justify-content: space-between;
+  flex-grow: 1;
+}
+
+.navbar-list {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+
 .navbar-brand {
   width: 3.5rem;
 }
@@ -163,7 +179,6 @@ button[aria-expanded=true] > span{
 
 .navbar-toggler .icon-bar:nth-of-type(3) {
   transform: translate(15%) rotate(-45deg);
-  // transform: ;
   transform-origin: 10% 90%;
 }
 
@@ -242,8 +257,6 @@ h2 {
     align-items: center;
   }
 }
-
-
 
 blockquote {
   border-left: $text-color;
@@ -605,15 +618,21 @@ blockquote {
     padding-right: 3.5rem;
   }
 
-  .navbar-collapse.collapse.show {
-    height: 100vh;
-  }
-  .navbar-nav {
-    height: auto;
-  }
   .earth-side {
     display: none;
   }
+
+  .navbar-nav {
+    float: none!important;
+    height: 100vh;
+    justify-content: flex-start;
+  }
+
+  .navbar-list {
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+
   .navbar-custom {
     display: flex;
     justify-content: center;

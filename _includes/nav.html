@@ -7,42 +7,44 @@
         <span class="icon-bar"></span>
       </button>
   <div class="navbar-collapse collapse multi-collapse" id="navbarToggler">
-    <ul class="navbar-nav mt-2 mt-lg-0">
-      {% if page.lang == "en" %}
-      <li class="nav-item">
-        <a class="nav-link" href="/">Helsinki climate</a>
-      </li>
-      <li {% if page.ref == 'about' %}class='active nav-item' {% else %} class="nav-item" {% endif %} >
-        <a class="nav-link" href="/story.html">Story</a>
-      </li>
-      <li {% if page.ref == 'speakers' %}class='active nav-item' {% else %} class="nav-item" {% endif %}>
-        <a class="nav-link" href="/speakers.html">Speakers</a>
-      </li>
-      <li {% if page.ref == 'info' %}class='active nav-item' {% else %} class="nav-item" {% endif %}>
-        <a class="nav-link" href="/info.html">Info</a>
-      </li>
-      <li {% if page.ref == 'tickets' %}class='active nav-item' {% else %} class="nav-item" {% endif %}>
-        <a class="nav-link" href="https://forms.gle/WSNVKP1KUHJLw6U4A">Apply for tickets</a>
-      </li>
-      {% elsif page.lang == "fi" %}
-      <li class="nav-item">
-        <a class="nav-link" href="/">Helsinki Climate</a>
-      </li>
-      <li {% if page.ref == 'about' %}class='active nav-item' {% else %} class="nav-item" {% endif %}>
-        <a class="nav-link" href="/tarina.html">Tarina</a>
-      </li>
-      <li {% if page.ref == 'speakers' %}class='active nav-item' {% else %} class="nav-item" {% endif %}>
-        <a class="nav-link" href="/keskustelijat.html">Keskustelijat</a>
-      </li>
-      <li {% if page.ref == 'info' %}class='active nav-item' {% else %} class="nav-item" {% endif %}>
-        <a class="nav-link" href="/tietoa.html">Info</a>
-      </li>
-      <li {% if page.ref == 'tickets' %}class='active nav-item' {% else %} class="nav-item" {% endif %}>
-        <a class="nav-link" href="https://forms.gle/WSNVKP1KUHJLw6U4A">Hae lippuja</a>
-      </li>
-      {% endif %}
-    </ul>
-    {% include lang_bar.html %}
+    <div class="navbar-nav">
+      <ul class="navbar-list mt-2 mt-lg-0">
+          {% if page.lang == "en" %}
+          <li class="nav-item">
+            <a class="nav-link" href="/">Helsinki climate</a>
+          </li>
+          <li {% if page.ref == 'about' %}class='active nav-item' {% else %} class="nav-item" {% endif %} >
+            <a class="nav-link" href="/story.html">Story</a>
+          </li>
+          <li {% if page.ref == 'speakers' %}class='active nav-item' {% else %} class="nav-item" {% endif %}>
+            <a class="nav-link" href="/speakers.html">Speakers</a>
+          </li>
+          <li {% if page.ref == 'info' %}class='active nav-item' {% else %} class="nav-item" {% endif %}>
+            <a class="nav-link" href="/info.html">Info</a>
+          </li>
+          <li {% if page.ref == 'tickets' %}class='active nav-item' {% else %} class="nav-item" {% endif %}>
+            <a class="nav-link" href="https://forms.gle/WSNVKP1KUHJLw6U4A">Apply for tickets</a>
+          </li>
+          {% elsif page.lang == "fi" %}
+          <li class="nav-item">
+            <a class="nav-link" href="/">Helsinki Climate</a>
+          </li>
+          <li {% if page.ref == 'about' %}class='active nav-item' {% else %} class="nav-item" {% endif %}>
+            <a class="nav-link" href="/tarina.html">Tarina</a>
+          </li>
+          <li {% if page.ref == 'speakers' %}class='active nav-item' {% else %} class="nav-item" {% endif %}>
+            <a class="nav-link" href="/keskustelijat.html">Keskustelijat</a>
+          </li>
+          <li {% if page.ref == 'info' %}class='active nav-item' {% else %} class="nav-item" {% endif %}>
+            <a class="nav-link" href="/tietoa.html">Info</a>
+          </li>
+          <li {% if page.ref == 'tickets' %}class='active nav-item' {% else %} class="nav-item" {% endif %}>
+            <a class="nav-link" href="https://forms.gle/WSNVKP1KUHJLw6U4A">Hae lippuja</a>
+          </li>
+          {% endif %}
+        </ul>
+        {% include lang_bar.html %}
+    </div>
   </div>
 </nav>
 
