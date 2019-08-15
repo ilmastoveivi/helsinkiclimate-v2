@@ -119,3 +119,9 @@
   description: 
   img: resources/img/speakers/saara_tamminen.jpg
   order: 20
+
+- name: Lauri Myllyvirta
+  title: Senior Analyst, Greenpeace Global Air Pollution Unit
+  description: 
+  img: resources/img/speakers/lauri_myllyvirta.jpg
+  order: 21
