@@ -56,5 +56,5 @@ Helsinki Climate -tukijat ja kumppanit:
 **Sitra**  
 **Smart & Clean säätiö**  
 **Jenny ja Antti Wihurin rahasto**  
-**GoFore**  
+**Gofore**  
 **Maj ja Tor Nesslingin säätiö**

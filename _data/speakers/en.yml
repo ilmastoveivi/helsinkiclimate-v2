@@ -129,23 +129,23 @@
 - name: Petteri Orpo
   title: Chair, National Coalition Party
   description: 
-  img: resources/img/speakers/cropped-petteri_400 x 400.jpg
+  img: resources/img/speakers/petteri_orpo.jpg
   order: 17
   
-  - name: Laura Birn
-  title: Actress, host (Pic: Marica Rosengård)
+- name: Laura Birn
+  title: "Actress, host (Pic: Marica Rosengård)"
   description: 
-  img: resources/img/speakers/LauraBirn©M.RosengardYT2S2469_400x400.jpg
+  img: resources/img/speakers/laura_birn.jpg
   order: 23
   
-   - name: Kaja Pavlinić
+- name: Kaja Pavlinić
   title: President, Sustainable Development Forum Green Window
   description: "To make the climate goals come true, we all need to completely reshape our daily habits, but this is not possible without private and public sector allowing us to shift our habits and working hard to make carbon-neutral alternatives available to all, not just the privileged ones."
-  img: resources/img/speakers/Kaja Pavlinic 400 x 400.JPG
+  img: resources/img/speakers/kaja_pavlinic.jpg
   order: 24
   
-    - name: Arshak Makichyan
+- name: Arshak Makichyan
   title: Activist
   description: "To prevent the climate crisis, people need to understand what it is and how serious it is. That's why it's so important to support and join to Fridays For Future. The politicians can't do it without activists, even if they want to. We have to unite and to built the new future together."
-  img: resources/img/speakers/Arshak Makichian 400 x 400.jpg
+  img: resources/img/speakers/arshak_makichian.jpg
   order: 25

@@ -130,23 +130,23 @@
 - name: Petteri Orpo
   title: Puheenjohtaja, kokoomus
   description: 
-  img: resources/img/speakers/cropped-petteri_400 x 400.jpg
+  img: resources/img/speakers/petteri_orpo.jpg
   order: 17
   
-  - name: Laura Birn
-  title: Näyttelijä, tapahtuman juontaja (Kuva: Marica Rosengård)
+- name: Laura Birn
+  title: "Näyttelijä, tapahtuman juontaja (Kuva: Marica Rosengård)"
   description: 
-  img: resources/img/speakers/LauraBirn©M.RosengardYT2S2469_400x400.jpg
+  img: resources/img/speakers/laura_birn.jpg
   order: 23
   
-   - name: Kaja Pavlinić
+- name: Kaja Pavlinić
   title: President, Sustainable Development Forum Green Window
   description: "Meidän kaikkien on muutettava päivittäiset tottumuksemme, jotta ilmastotavoitteet voidaan saavuttaa. Yksityisen ja julkisen sektorin pitää antaa meille mahdollisuus muuttaa tapojamme. Hiilineutraalit vaihtoehdot on saatava kaikille, ei vain harvoille etuoikeutetuille."
-  img: resources/img/speakers/Kaja Pavlinic 400 x 400.JPG
+  img: resources/img/speakers/kaja_pavlinic.jpg
   order: 24
   
-    - name: Arshak Makichyan
+- name: Arshak Makichyan
   title: Aktivisti
   description: "Meidän on ymmärrettävä, mikä ilmastokriisi on ja kuinka vakava se on, jotta voimme estää sen. Meidän pitää liittyä yhteen, koska uusi tulevaisuus rakennetaan yhdessä."
-  img: resources/img/speakers/Arshak Makichian 400 x 400.jpg
+  img: resources/img/speakers/arshak_makichian.jpg
   order: 25
