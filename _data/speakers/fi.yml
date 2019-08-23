@@ -150,3 +150,9 @@
   description: "Meidän on ymmärrettävä, mikä ilmastokriisi on ja kuinka vakava se on, jotta voimme estää sen. Meidän pitää liittyä yhteen, koska uusi tulevaisuus rakennetaan yhdessä."
   img: resources/img/speakers/arshak_makichian.jpg
   order: 25
+  
+  - name: Hrefna Björg
+  title: Aktivisti
+  description: "Meillä kaikilla on rooli ilmastotoiminnassa. Edistämällä yhteistyötä, innovatiivisuutta ja riskinottoa voimme liikkua kohti hiilineutraalia tulevaisuutta. Yhteiskunnan jälleenrakentaminen planeettamme ehdoilla vaatii uskoa ihmisten sopeutumismahdollisuuksiin."
+  img: resources/img/speakers/hrefna_bjorg.jpg
+  order: 26
