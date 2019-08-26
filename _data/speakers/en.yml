@@ -150,13 +150,13 @@
   img: resources/img/speakers/arshak_makichian.jpg
   order: 25
   
-  - name: Hrefna Björg Gylfadóttir
+- name: Hrefna Björg Gylfadóttir
   title: Activist
   description: "We all have a role to play and by fostering collaboration, risk-taking and innovation we can collectively take the required action towards a carbon neutral future. We need to believe in our adaptability as human beings when rethinking our systems in order to co-exist sustainably with our planet."
   img: resources/img/speakers/hrefna_bjorg.jpg
   order: 26
   
-  - name: Miska Eriksson
+- name: Miska Eriksson
   title: Founder, QHeat
   description: "Climate goals will be reached by bravely renewing our current energy policies and system by making room for new technologies, such as solar and wind power as well as geothermic solutions. Next generation low thermal networks are a splendid opportunity for global change."
   img: resources/img/speakers/miska_eriksson.jpg
