@@ -55,6 +55,12 @@ body {
 
 }
 
+.centered-title {
+  font-family: $secondary-font;
+  font-size: 1.25rem;
+  font-style: italic;
+}
+
 .btn-xl {
   padding-top: 1rem;
   font-size: 2.5rem;
@@ -236,6 +242,9 @@ h2 {
   text-transform: uppercase;
 }
 
+#videos .content-container{
+  max-width: 1300px;
+}
 @media screen and (max-width: 650px) {
    h1 {
     font-size: 2rem;
@@ -333,12 +342,6 @@ blockquote {
 
 .speaker-name{
   font-weight: $gothic-medium;
-}
-
-.speaker-title {
-  font-family: $secondary-font;
-  font-size: 1.25rem;
-  font-style: italic;
 }
 
 .speaker-description {

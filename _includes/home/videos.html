@@ -1,0 +1,20 @@
+<section id="videos">
+  <div class="content-container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <div>
+          <h2 class="text-uppercase">
+            {{ page.videos | markdownify }}
+          </h2>
+          {{ page.videos-subtitle | markdownify }}
+        </div>
+      </div>
+    </div>
+    <div class="row justify-content-center text-center">
+      {% assign videos = site.data.videos[page.lang]%}
+      {% for video in videos %}
+      {% include videos/video_item.html player=video.player title=video.title%}
+      {% endfor %}
+    </div>
+  </div>
+</section>

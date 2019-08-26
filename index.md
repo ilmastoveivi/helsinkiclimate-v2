@@ -20,6 +20,10 @@ apply-tickets: Hae lippuja
 are-you-with-us: Rakennamme muutosta
 we-want-make-world: Helsinki Climaten osallistujat haluavat tehdä ilmastotavoitteista totta. Miten?
 
+# Part 4
+videos: Videos
+videos-subtitle: Videos subtitle Finnish
+
 about-us: Meistä
 
 read-news: Lue uusimmat uutiset

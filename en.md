@@ -19,6 +19,10 @@ apply-tickets: Get tickets
 are-you-with-us: Are you with us?
 we-want-make-world: We want to turn carbon neutrality into a reality. How?
 
+# Part 4
+videos: Videos
+videos-subtitle: Videos subtitle
+
 about-us: About us
 
 read-news: Read all latest news
