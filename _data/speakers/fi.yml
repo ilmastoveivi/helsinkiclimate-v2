@@ -111,7 +111,7 @@
   
 - name: Mari Pantsar
   title: Johtaja, hiilineutraali kiertotalous, Sitra
-  description: 
+  description: "”Tieteen viesti on selvä: päästöt kaikkialla käännettävä nopeaan laskuun ilmastokriisin hillitsemiseksi. Ratkaisuja on, ne pitää hyödyntää laajemmin, paremmin. Aikaa ei ole hukattavaksi. Ymmärrys on käännettävä toiminnaksi. Me Suomessa voimme näyttää mallia, luoden samalla kukoistavaa liiketoimintaa.”"
   img: resources/img/speakers/mari_pantsar.jpg
   order: 13
 
@@ -161,4 +161,10 @@
   title: Perustaja, QHeat
   description: "“Ilmastotavoitteisiin päästään uudistamalla rohkeasti nykyistä energiapolitiikkaamme ja -järjestelmäämme antamalla tilaa uusille teknologioille, kuten aurinko- ja tuulienergialle sekä geotermisille energiaratkaisuille. Seuraavan sukupolven matalalämpöverkot ovat erinomaisia mahdollisuuksia globaaliin muutokseen.“"
   img: resources/img/speakers/miska_eriksson.jpg
+  order: 27
+  
+  - name: Christiana Figueres
+  title: convener of Mission 2020
+  description: 
+  img: resources/img/speakers/christiana_figueres.jpg
   order: 27
