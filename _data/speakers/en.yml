@@ -161,3 +161,9 @@
   description: "“Climate goals will be reached by bravely renewing our current energy policies and system by making room for new technologies, such as solar and wind power as well as geothermic solutions. Next generation low thermal networks are a splendid opportunity for global change.“"
   img: resources/img/speakers/miska_eriksson.jpg
   order: 27
+  
+  - name: Christiana Figueres
+  title: Convener of Mission 2020
+  description: 
+  img: resources/img/speakers/christiana_figueres.jpg
+  order: 28
