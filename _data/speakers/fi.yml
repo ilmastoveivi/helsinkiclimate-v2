@@ -98,7 +98,7 @@
   order: 5
 
 - name: Tuuli Kaskinen
-  title: Konsultatiivisen liiketoiminnan johtaja, Demos Helsinki (juontaja)
+  title: Konsultatiivisen liiketoiminnan johtaja, Demos Helsinki. Tapahtuman juontaja
   description: 
   img: resources/img/speakers/tuuli_kaskinen.jpg
   order: 22
@@ -141,24 +141,24 @@
   
 - name: Kaja Pavlinić
   title: President, Sustainable Development Forum Green Window
-  description: "Meidän kaikkien on muutettava päivittäiset tottumuksemme, jotta ilmastotavoitteet voidaan saavuttaa. Yksityisen ja julkisen sektorin pitää antaa meille mahdollisuus muuttaa tapojamme. Hiilineutraalit vaihtoehdot on saatava kaikille, ei vain harvoille etuoikeutetuille."
+  description: "“Meidän kaikkien on muutettava päivittäiset tottumuksemme, jotta ilmastotavoitteet voidaan saavuttaa. Yksityisen ja julkisen sektorin pitää antaa meille mahdollisuus muuttaa tapojamme. Hiilineutraalit vaihtoehdot on saatava kaikille, ei vain harvoille etuoikeutetuille.“"
   img: resources/img/speakers/kaja_pavlinic.jpg
   order: 24
   
 - name: Arshak Makichyan
   title: Aktivisti
-  description: "Meidän on ymmärrettävä, mikä ilmastokriisi on ja kuinka vakava se on, jotta voimme estää sen. Meidän pitää liittyä yhteen, koska uusi tulevaisuus rakennetaan yhdessä."
+  description: "“Meidän on ymmärrettävä, mikä ilmastokriisi on ja kuinka vakava se on, jotta voimme estää sen. Meidän pitää liittyä yhteen, koska uusi tulevaisuus rakennetaan yhdessä.“"
   img: resources/img/speakers/arshak_makichian.jpg
   order: 25
   
 - name: Hrefna Björg Gylfadóttir
   title: Aktivisti
-  description: "Meillä kaikilla on rooli ilmastotoiminnassa. Edistämällä yhteistyötä, innovatiivisuutta ja riskinottoa voimme liikkua kohti hiilineutraalia tulevaisuutta. Yhteiskunnan jälleenrakentaminen planeettamme ehdoilla vaatii uskoa ihmisten sopeutumismahdollisuuksiin."
+  description: "“Meillä kaikilla on rooli ilmastotoiminnassa. Edistämällä yhteistyötä, innovatiivisuutta ja riskinottoa voimme liikkua kohti hiilineutraalia tulevaisuutta. Yhteiskunnan jälleenrakentaminen planeettamme ehdoilla vaatii uskoa ihmisten sopeutumismahdollisuuksiin.“"
   img: resources/img/speakers/hrefna_bjorg.jpg
   order: 26
   
 - name: Miska Eriksson
   title: Perustaja, QHeat
-  description: "Ilmastotavoitteisiin päästään uudistamalla rohkeasti nykyistä energiapolitiikkaamme ja -järjestelmäämme antamalla tilaa uusille teknologioille, kuten aurinko- ja tuulienergialle sekä geotermisille energiaratkaisuille. Seuraavan sukupolven matalalämpöverkot ovat erinomaisia mahdollisuuksia globaaliin muutokseen."
+  description: "“Ilmastotavoitteisiin päästään uudistamalla rohkeasti nykyistä energiapolitiikkaamme ja -järjestelmäämme antamalla tilaa uusille teknologioille, kuten aurinko- ja tuulienergialle sekä geotermisille energiaratkaisuille. Seuraavan sukupolven matalalämpöverkot ovat erinomaisia mahdollisuuksia globaaliin muutokseen.“"
   img: resources/img/speakers/miska_eriksson.jpg
   order: 27
