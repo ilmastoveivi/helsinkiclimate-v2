@@ -163,7 +163,7 @@
   img: resources/img/speakers/miska_eriksson.jpg
   order: 27
   
-  - name: Christiana Figueres
+- name: Christiana Figueres
   title: convener of Mission 2020
   description: 
   img: resources/img/speakers/christiana_figueres.jpg
