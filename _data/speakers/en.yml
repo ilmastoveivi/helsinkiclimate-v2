@@ -110,7 +110,7 @@
   
 - name: Mari Pantsar
   title: Director, Carbon-neutral Circular Economy, Sitra
-  description: 
+  description: "”The science is clear: emissions everywhere must be swiftly reduced to limit climate change. Solutions exist, and they must be utilized much better and more extensively. There is no time to waste. Knowledge must translate into action. Finland can be an example, and at the same time create thriving business.”"
   img: resources/img/speakers/mari_pantsar.jpg
   order: 13
 
@@ -140,24 +140,30 @@
   
 - name: Kaja Pavlinić
   title: President, Sustainable Development Forum Green Window
-  description: "To make the climate goals come true, we all need to completely reshape our daily habits, but this is not possible without private and public sector allowing us to shift our habits and working hard to make carbon-neutral alternatives available to all, not just the privileged ones."
+  description: "“To make the climate goals come true, we all need to completely reshape our daily habits, but this is not possible without private and public sector allowing us to shift our habits and working hard to make carbon-neutral alternatives available to all, not just the privileged ones.“"
   img: resources/img/speakers/kaja_pavlinic.jpg
   order: 24
   
 - name: Arshak Makichyan
   title: Activist
-  description: "To prevent the climate crisis, people need to understand what it is and how serious it is. That's why it's so important to support and join to Fridays For Future. The politicians can't do it without activists, even if they want to. We have to unite and to built the new future together."
+  description: "“To prevent the climate crisis, people need to understand what it is and how serious it is. That's why it's so important to support and join to Fridays For Future. The politicians can't do it without activists, even if they want to. We have to unite and to built the new future together.“"
   img: resources/img/speakers/arshak_makichian.jpg
   order: 25
   
 - name: Hrefna Björg Gylfadóttir
   title: Activist
-  description: "We all have a role to play and by fostering collaboration, risk-taking and innovation we can collectively take the required action towards a carbon neutral future. We need to believe in our adaptability as human beings when rethinking our systems in order to co-exist sustainably with our planet."
+  description: "“We all have a role to play and by fostering collaboration, risk-taking and innovation we can collectively take the required action towards a carbon neutral future. We need to believe in our adaptability as human beings when rethinking our systems in order to co-exist sustainably with our planet.“"
   img: resources/img/speakers/hrefna_bjorg.jpg
   order: 26
   
 - name: Miska Eriksson
   title: Founder, QHeat
-  description: "Climate goals will be reached by bravely renewing our current energy policies and system by making room for new technologies, such as solar and wind power as well as geothermic solutions. Next generation low thermal networks are a splendid opportunity for global change."
+  description: "“Climate goals will be reached by bravely renewing our current energy policies and system by making room for new technologies, such as solar and wind power as well as geothermic solutions. Next generation low thermal networks are a splendid opportunity for global change.“"
   img: resources/img/speakers/miska_eriksson.jpg
   order: 27
+  
+- name: Christiana Figueres
+  title: Convener of Mission 2020
+  description: 
+  img: resources/img/speakers/christiana_figueres.jpg
+  order: 28
