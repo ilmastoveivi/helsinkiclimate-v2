@@ -117,7 +117,7 @@
 
 - name: Saara Tamminen
   title: Johtava asiantuntija, ilmastoratkaisut, Sitra
-  description: 
+  description: "”Ilmastotavoitteista tehdään totta ottamalla laaja-alaisesti kaikki mukaan keinojen miettimiseen ja toteuttamiseen.""
   img: resources/img/speakers/saara_tamminen.jpg
   order: 20
 
@@ -168,3 +168,9 @@
   description: 
   img: resources/img/speakers/christiana_figueres.jpg
   order: 27
+  
+  name: Tiina Kähö
+  title: Toimitusjohtaja, Smart & Clean -säätiö
+  description: ""Ilmastonmuutos muuttaa yhteiskunnan rakenteita kokonaisvaltaisesti ja ratkaisut 1,5 asteen maailmaan on mahdollista tehdä vain yhdessä. Kunnianhimoinen julkisen ja yksityisen sektorin yhteistyö on uuden maailman keino. Se vaatii toimivia ekosysteemejä, jotka johtavat pysyviin muutoksiin.""
+  img: resources/img/speakers/tiina_kaho.jpg
+  order: 28
