@@ -117,7 +117,7 @@
 
 - name: Saara Tamminen
   title: Johtava asiantuntija, ilmastoratkaisut, Sitra
-  description: "”Ilmastotavoitteista tehdään totta ottamalla laaja-alaisesti kaikki mukaan keinojen miettimiseen ja toteuttamiseen.""
+  description: "“Ilmastotavoitteista tehdään totta ottamalla laaja-alaisesti kaikki mukaan keinojen miettimiseen ja toteuttamiseen.”"
   img: resources/img/speakers/saara_tamminen.jpg
   order: 20
 
@@ -169,25 +169,25 @@
   img: resources/img/speakers/christiana_figueres.jpg
   order: 28
   
- – name: Tiina Kähö
+- name: Tiina Kähö
   title: Toimitusjohtaja, Smart & Clean -säätiö
-  description: ""Ilmastonmuutos muuttaa yhteiskunnan rakenteita kokonaisvaltaisesti ja ratkaisut 1,5 asteen maailmaan on mahdollista tehdä vain yhdessä. Kunnianhimoinen julkisen ja yksityisen sektorin yhteistyö on uuden maailman keino. Se vaatii toimivia ekosysteemejä, jotka johtavat pysyviin muutoksiin.""
+  description: "“Ilmastonmuutos muuttaa yhteiskunnan rakenteita kokonaisvaltaisesti ja ratkaisut 1,5 asteen maailmaan on mahdollista tehdä vain yhdessä. Kunnianhimoinen julkisen ja yksityisen sektorin yhteistyö on uuden maailman keino. Se vaatii toimivia ekosysteemejä, jotka johtavat pysyviin muutoksiin.”"
   img: resources/img/speakers/tiina_kaho.jpg
   order: 29
 
-– name: Tytti Tuppurainen
+- name: Tytti Tuppurainen
   title: Eurooppaministeri
   description: 
   img: resources/img/speakers/tytti_tuppurainen.jpg
   order: 30
 
-– name: Jussi Palola
+- name: Jussi Palola
   title: Toimitusjohtaja, Virta
   description: "”Ilmastopolitiikka luo kotimarkkinat, etunoja edistää vientiä. Vähennetään ilmastopolitiikan käyttöä sisäpolitiikan lyömäaseena, sillä kyseessä on Suomen kansantalouden kilpailukyky.”"
   img: resources/img/speakers/jussi_palola.jpg
   order: 31
 
-– name: Päivi Antikainen
+- name: Päivi Antikainen
   title: Ilmasto- ja ympäristöyksikön johtaja, LVM
   description: 
   img: resources/img/speakers/paivi_antikainen.jpg
