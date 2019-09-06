@@ -116,7 +116,7 @@
 
 - name: Saara Tamminen
   title: Leading Specialist, Climate Solutions, Sitra
-  description: 
+  description: ""The climate goals will be achieved by bringing everyone together to brainstorm actions and to make those happen.""
   img: resources/img/speakers/saara_tamminen.jpg
   order: 20
 
@@ -167,3 +167,27 @@
   description: 
   img: resources/img/speakers/christiana_figueres.jpg
   order: 28
+
+– name: Tiina Kähö
+  title: CEO, Smart & Clean -säätiö
+  description: ""Climate change transforms the society’s structures in fundamental ways and we can only reach solutions for a 1,5 degree world together. Ambitious cooperation between the public and private sector is the way to do things today. It requires functional ecosystems that lead to lasting transformations.""
+  img: resources/img/speakers/tiina_kaho.jpg
+  order: 29
+  
+  – name: Tytti Tuppurainen 
+  title: Minister for European Affairs
+  description: 
+  img: resources/img/speakers/tytti_tuppurainen.jpg
+  order: 30
+  
+  – name: Jussi Palola
+  title: CEO, Virta
+  description: 
+  img: resources/img/speakers/jussi_palola.jpg
+  order: 31
+  
+  – name: Päivi Antikainen
+  title: Director of Unit at Ministry of Transport and Communications
+  description: 
+  img: resources/img/speakers/paivi_antikainen.jpg
+  order: 32
