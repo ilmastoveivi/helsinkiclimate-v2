@@ -18,7 +18,7 @@ Twitter: @helsinkiclimate <a href="https://twitter.com/helsinkiclimate" class="f
 
 Facebook event: <a href="https://www.facebook.com/events/2543128852443328/" class="fa fa-facebook"></a>
 
-## Osallistuminen 
+## How to participate? 
 
 Helsinki Climate brings together the makers of a carbon neutral future at Bio Rex in Lasipalatsi, Helsinki, on 11 September, 2019 at 15–18. Anyone can participate by following the live show online. In addition, there is a limited number of tickets available for the event. Together we need to provide the best ideas for a zero-emission society. For this reason, Helsinki Climate is open to everyone, regardless of income, education, age, or other factors.
 

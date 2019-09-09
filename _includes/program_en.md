@@ -1,15 +1,15 @@
 
 # Ohjelma
 
-ILMASTOKRIISI ON TÄÄLLÄ – missä olemme me, oikeasti?
+THE CLIMATE CRISIS IS HERE - Where are we at, really?
 
-FOSSIILIVAPAA SUOMI – lähempänä kuin luulemme?
+FOSSIL FREE FINLAND - closer than we might think?
 
-LIIKKUMINEN 2030– kuka liikkuu, minne ja millä?
+MOBILITY 2030 - who is able to commute and travel, and how?
 
-KAUPUNGIT RATKAISIJOINA – missä kipukohdat?
+PROGRESSIVE CITIES - the weaknesses and strengths
 
-REILU TRANSITIO – uuden talouden haasteet ja mahdollisuudet
+FAIR TRANSITION - Challenges and opportunities of the new economy
 
-TOIMIIN ON RYHDYTTÄVÄ NYT – seuraavat kriittiset askeleet
+WE MUST ACT NOW - The next critical steps
 
