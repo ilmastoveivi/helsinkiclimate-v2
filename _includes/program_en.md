@@ -1,5 +1,5 @@
 
-# Ohjelma
+# Program
 
 THE CLIMATE CRISIS IS HERE - Where are we at, really?
 
