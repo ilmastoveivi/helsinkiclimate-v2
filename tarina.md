@@ -58,3 +58,5 @@ Helsinki Climate -tukijat ja kumppanit:
 **Jenny ja Antti Wihurin rahasto**  
 **Gofore**  
 **Maj ja Tor Nesslingin säätiö**
+**Wärtsilä**
+**Tiina ja Antti Herlinin säätiö**
