@@ -135,7 +135,8 @@ body {
 }
 
 #apply-tickets {
-  padding-bottom: 3rem;
+  padding-bottom: 0rem;
+  justify-content: flex-start;
 }
 #apply-tickets  .small-font{
   font-size: 0.75rem;
@@ -251,11 +252,6 @@ h2 {
 
 #about #apply-tickets {
   background-color: $light-blue-color;
-  .content-container {
-    display: flex;
-    flex-flow: column;
-    align-items: center;
-  }
 }
 
 blockquote {
@@ -569,7 +565,7 @@ blockquote {
   max-width: 1300px;
 }
 
-#speakers, #about{
+#speakers, #about #about-section{
   h1 {
     text-transform: uppercase;
   }
