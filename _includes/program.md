@@ -2,15 +2,15 @@
 
 # Ohjelma
 
-ILMASTOKRIISI ON TÄÄLLÄ – missä olemme me, oikeasti?
+ILMASTOKRIISI ON TÄÄLLÄ ~ <span style='font-family:adobe-caslon-pro; font-size:1.5rem'>missä olemme me, oikeasti?</span>
 
-FOSSIILIVAPAA SUOMI – lähempänä kuin luulemme?
+FOSSIILIVAPAA SUOMI ~ <span style='font-family:adobe-caslon-pro; font-size:1.5rem'>lähempänä kuin luulemme?</span>
 
-LIIKKUMINEN 2030– kuka liikkuu, minne ja millä?
+LIIKKUMINEN 2030 ~ <span style='font-family:adobe-caslon-pro; font-size:1.5rem'>kuka liikkuu, minne ja millä?</span>
 
-KAUPUNGIT RATKAISIJOINA – missä kipukohdat?
+KAUPUNGIT RATKAISIJOINA ~ <span style='font-family:adobe-caslon-pro; font-size:1.5rem'>missä kipukohdat?</span>
 
-REILU TRANSITIO – uuden talouden haasteet ja mahdollisuudet
+REILU TRANSITIO ~ <span style='font-family:adobe-caslon-pro; font-size:1.5rem'>uuden talouden haasteet ja mahdollisuudet</span>
 
-TOIMIIN ON RYHDYTTÄVÄ NYT – seuraavat kriittiset askeleet
+TOIMIIN ON RYHDYTTÄVÄ NYT ~ <span style='font-family:adobe-caslon-pro; font-size:1.5rem'>seuraavat kriittiset askeleet</span>
 
