@@ -1,5 +1,5 @@
 
-# <span style='font-family:adobe-caslon-pro; font-style:italic'>Program</span>
+# <span style='font-family:adobe-caslon-pro; font-weight: bold; font-style:italic'>Program</span>
 
 THE CLIMATE CRISIS IS HERE ~ <span style='font-family:adobe-caslon-pro; font-style:italic; font-size:1.5rem'>where are we at, really?</span>
 
