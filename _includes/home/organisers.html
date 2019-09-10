@@ -112,6 +112,15 @@
             <img src="/resources/img/logos/tah_logo.png" id="helsinki-small-logo" class="img-responsive img-centered" alt=""/>
             </a>
         </div>
+        <div class="col-md-4 col-sm-6">
+            {% if page.lang == "fi" %}
+                <a href="https://amosrex.fi/">
+            {% elsif page.lang == "en" %}
+                <a href="https://amosrex.fi/en/">
+            {% endif %}
+            <img src="/resources/img/logos/amos_rex.png" id="amos-rex" class="img-responsive img-centered" alt=""/>
+            </a>
+        </div>
     </div>
     <div class="organisers-bottom row text-center pb-2">
         <div class="col-md-12 col-sm-12 ">
@@ -122,4 +131,5 @@
             {% endif %}
         </div>
     </div>
+    
 </div>
