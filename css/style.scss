@@ -146,6 +146,19 @@ button[aria-expanded=true] > span{
   background-image: url('../resources/img/hc-rasti.png')!important;
 }
 
+#live {
+  background-color: $light-blue-color;
+  padding-bottom: 3rem;
+}
+
+#live-logo-container .img-fluid {
+  max-width: 40%;
+}
+#live-video-container {
+  max-width: 900px;
+  width: 90%;
+  margin: auto;
+}
 
 #lets {
   min-height: 6rem;
@@ -253,6 +266,9 @@ h2 {
    #body {
     font-size: 1rem;
    }
+   #live-video-container {
+    width: 100%;
+  }
 }
 
 #about #apply-tickets {
