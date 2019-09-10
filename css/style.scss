@@ -146,6 +146,9 @@ button[aria-expanded=true] > span{
   background-image: url('../resources/img/hc-rasti.png')!important;
 }
 
+#live {
+  background-color: $light-blue-color;
+}
 
 #lets {
   min-height: 6rem;
