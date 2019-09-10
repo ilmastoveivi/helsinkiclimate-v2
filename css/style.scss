@@ -148,10 +148,11 @@ button[aria-expanded=true] > span{
 
 #live {
   background-color: $light-blue-color;
+  padding-bottom: 3rem;
 }
 
 #live-logo-container .img-fluid {
-  height: 100px;
+  max-width: 40%;
 }
 #live-video-container {
   max-width: 900px;
